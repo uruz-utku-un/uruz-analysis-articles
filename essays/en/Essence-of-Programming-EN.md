@@ -8,8 +8,8 @@ Utku Ün (Uruz)
 
 This work explores the essence of computer programs and approaches programming
 not merely as a technical activity, but also as an intellectual process. The
-visible functions of software—such as adjusting screen brightness or logging in
-with a password—are considered to be only surface-level manifestations of
+visible functions of software --such as adjusting screen brightness or logging in
+with a password-- are considered to be only surface-level manifestations of
 underlying data processing.
 
 The study defines data as the fundamental raw material of software development
