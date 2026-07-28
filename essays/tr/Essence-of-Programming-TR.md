@@ -37,11 +37,12 @@ bir yansımasıdır; çünkü programlama, tıpkı o dönemlerdeki düşünce si
 gibi, veri üzerine düşünmeye ve veriyi anlamlandırmaya odaklanır.
 
 ### Problem Tanımı
-**Günümüzde programlama,** çoğunlukla “kod yazmak” olarak algılanmaktadır.
-Oysa kodun özü, veriyi işlemek ve dönüştürmektir. Çoğu geliştirici bu temel
-gerçeği göz ardı ederek yalnızca çıktıya odaklanmaktadır. Bu yaklaşım,
-yazılımın mantıksal temellerini kavramayı zorlaştırmakta ve programlama
-disiplinini yüzeysel bir uğraş haline getirmektedir.
+**Günümüzde programlama, çoğunlukla “kod yazmak” olarak algılanmaktadır.**
+**Oysa kodun özü, veriyi işlemek ve dönüştürmektir.**
+Çoğu geliştirici bu temel gerçeği göz ardı ederek yalnızca çıktıya
+odaklanmaktadır. Bu yaklaşım, yazılımın mantıksal temellerini kavramayı
+zorlaştırmakta ve programlama disiplinini yüzeysel bir uğraş haline
+getirmektedir.
 
 ### Amaç
 **Bu çalışmanın amacı,** programlamanın özünü veri işleme olarak tanımlamak ve
