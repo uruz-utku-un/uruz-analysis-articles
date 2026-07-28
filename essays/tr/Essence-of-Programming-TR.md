@@ -171,7 +171,7 @@ Bu süreç, felsefenin “bilgiyi işleme” çabasının teknolojik bir karşı
 düşüncenin somut bir ürüne dönüşmesini sağlar.
 
 ### 4. Modern Felsefenin Yansıması
-Eski çağlarda filozoflar, evrenin düzenini anlamak için mantık ve kavramlar
+**Eski çağlarda filozoflar,** evrenin düzenini anlamak için mantık ve kavramlar
 geliştirmiştir. Günümüzde programcılar, evrenin dijital düzenini anlamak ve
 yönetmek için algoritmalar ve veri yapıları geliştirir. Bu açıdan programlama,
 modern çağın felsefi pratiği olarak görülebilir.
@@ -186,7 +186,7 @@ veriyi anlamlı hale getirme sanatıdır ve bu yönüyle modern çağın felsefi
 pratiği olarak değerlendirilebilir.
 
 **Kendi yaklaşımımda programlamayı** sadelik, modülerlik ve insan gözünün
-rahatlıkla anlayabileceği yapılar üzerine kurmayı hedefliyorum. Bu vizyon,
+rahatlıkla anlayabileceği yapılar üzerine kurmayı hedefliyorum. **Bu vizyon,**
 yazılım geliştirme sürecinde hem teknik hem de düşünsel bir disiplin
 kazandırmayı amaçlamaktadır.
 
