@@ -1,4 +1,4 @@
-**Creative Commons Lisans Source:**
+**Creative Commons License Source:**
 - [CC BY-NC 4.0 English](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
 - [CC BY-NC 4.0 Türkçe](https://creativecommons.org/licenses/by-nc/4.0/legalcode.tr)
 
