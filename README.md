@@ -1,2 +1,2 @@
-# uruz-thoughts
+# Uruz - Thoughts
 ...
