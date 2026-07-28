@@ -22,12 +22,11 @@ açıklanmıştır. Programlamanın felsefi boyutu vurgulanarak, kod yazmanın m
 yeni bir perspektif kazandırmak hem de programlamayı düşünsel bir vizyonla
 bütünleştirmek amaçlanmaktadır.
 
-
 ---
 
 ## Giriş
-**Bilgisayar programlarının varlık nedeni,** özünde belirli işleri sistematik bir
-şekilde gerçekleştirmektir. Ancak bu işlerin görünen yüzü --örneğin ekran
+**Bilgisayar programlarının varlık nedeni,** özünde belirli işleri sistematik
+bir şekilde gerçekleştirmektir. Ancak bu işlerin görünen yüzü --örneğin ekran
 parlaklığını değiştirmek veya bir şifre girerek oturum açmak-- yalnızca
 kullanıcıya sunulan çıktıdır. Gerçekte programların yaptığı iş, veriyi işlemek
 ve bu veriyi anlamlı bir ürüne dönüştürmektir.
@@ -48,23 +47,23 @@ disiplinini yüzeysel bir uğraş haline getirmektedir.
 **Bu çalışmanın amacı,** programlamanın özünü veri işleme olarak tanımlamak ve
 bu yaklaşımı sistematik bir şekilde ortaya koymaktır.
 
-- **İlk olarak,** veri kavramının bilgisayar sistemlerindeki farklı katmanlardaki
-temsil biçimleri açıklanacaktır.
+- **İlk olarak,** veri kavramının bilgisayar sistemlerindeki farklı
+  katmanlardaki temsil biçimleri açıklanacaktır.
 
-- **İkinci olarak,** programların işlevinin veriyi dönüştürmek ve anlamlı çıktılar
-üretmek olduğu gösterilecektir.
+- **İkinci olarak,** programların işlevinin veriyi dönüştürmek ve anlamlı
+  çıktılar üretmek olduğu gösterilecektir.
 
-- **Son olarak,** bu bakış açısı üzerinden kişisel bir vizyon ortaya konulacaktır:
-sadelik, modülerlik ve insan gözünün rahatlıkla anlayabileceği yapılar üzerine
-kurulu bir veri işleme mantığı.
+- **Son olarak,** bu bakış açısı üzerinden kişisel bir vizyon ortaya
+  konulacaktır: sadelik, modülerlik ve insan gözünün rahatlıkla anlayabileceği
+  yapılar üzerine kurulu bir veri işleme mantığı.
 
 ### Yöntem
-**Bu metin,** kavramsal bir çerçeve sunmayı hedeflemektedir. Öncelikle bilgisayar
-programlarının işlevi örneklerle açıklanacak, ardından veri kavramı teknik
-düzeyde ele alınacaktır. Sonrasında programlamanın felsefi boyutu tartışılarak,
-kişisel bir vizyon ortaya konacaktır. Bu yöntemle hem teorik hem de düşünsel
-bir temel oluşturulacak, ileride yapılacak yazılım çalışmalarına yön verecek
-bir bakış açısı geliştirilecektir.
+**Bu metin,** kavramsal bir çerçeve sunmayı hedeflemektedir. Öncelikle
+bilgisayar programlarının işlevi örneklerle açıklanacak, ardından veri kavramı
+teknik düzeyde ele alınacaktır. Sonrasında programlamanın felsefi boyutu
+tartışılarak, kişisel bir vizyon ortaya konacaktır. Bu yöntemle hem teorik
+hem de düşünsel bir temel oluşturulacak, ileride yapılacak yazılım
+çalışmalarına yön verecek bir bakış açısı geliştirilecektir.
 
 ---
 
@@ -75,23 +74,23 @@ Dolayısıyla verinin önemi, yalnızca teknik bir unsur olmasından değil, ayn
 zamanda yazılımın varlık sebebini oluşturmasından kaynaklanır.
 
 ### 1. Bilginin Temsili
-**Veri, bilginin bilgisayar ortamındaki temsilidir.** İnsan için bilgi çoğunlukla
-metin, görsel veya ses biçiminde algılanır. Ancak bilgisayar için bilgi, ikili
-(binary) sistemde saklanan verilerden ibarettir. Programlama, bu veriyi insanın
-anlayabileceği biçimlere dönüştürme sürecidir.
+**Veri, bilginin bilgisayar ortamındaki temsilidir.** İnsan için bilgi
+çoğunlukla metin, görsel veya ses biçiminde algılanır. Ancak bilgisayar için
+bilgi, ikili (binary) sistemde saklanan verilerden ibarettir. Programlama,
+bu veriyi insanın anlayabileceği biçimlere dönüştürme sürecidir.
 
 ### 2. İşletim Sistemi ve Katmanlar
-**Donanım doğrudan ham verilerle çalışır;** elektriksel sinyaller, manyetik alan
-değişimleri veya transistörlerin açık/kapalı durumları bu ham verinin en alt
-düzeydeki karşılığıdır. İşletim sistemi bu veriyi işler, dosyalarda saklar ve
-programlara sunar. Programcıların çoğu zaman doğrudan uğraştığı veri, işletim
-sisteminin işlediği ve dosya biçimlerine dönüştürdüğü veridir.
+**Donanım doğrudan ham verilerle çalışır;** elektriksel sinyaller, manyetik
+alan değişimleri veya transistörlerin açık/kapalı durumları bu ham verinin
+en alt düzeydeki karşılığıdır. İşletim sistemi bu veriyi işler, dosyalarda
+saklar ve programlara sunar. Programcıların çoğu zaman doğrudan uğraştığı veri,
+işletim sisteminin işlediği ve dosya biçimlerine dönüştürdüğü veridir.
 
 ### 3. Programlama Sürecinde Veri
-**Bir program yazarken aslında yaptığımız şey, veriyi işlemek için kurallar
-tanımlamaktır.** Bu kurallar, verinin okunması, dönüştürülmesi, saklanması ve
-yeniden üretilmesi üzerine kuruludur. Dolayısıyla programlama, veriyi anlamlı
-hale getirme sanatıdır.
+**Bir program yazarken aslında yaptığımız şey, veriyi işlemek için kurallar**
+**tanımlamaktır.** Bu kurallar, verinin okunması, dönüştürülmesi, saklanması
+ve yeniden üretilmesi üzerine kuruludur. Dolayısıyla programlama, veriyi
+anlamlı hale getirme sanatıdır.
 
 ### 4. Veri ve Anlam
 **Veri yalnızca teknik bir unsur değil, aynı zamanda anlamın taşıyıcısıdır.**
@@ -103,43 +102,44 @@ kullanılabilir hale gelir.
 ---
 
 ## Veri İşleme Süreci
-**Veri, bilgisayar sistemlerinde farklı katmanlardan geçerek anlamlı hale gelir.**
-Bu süreci adım adım incelemek, programlamanın özünü kavramak açısından
-önemlidir.
+**Veri, bilgisayar sistemlerinde farklı katmanlardan geçerek anlamlı hale**
+**gelir.** Bu süreci adım adım incelemek, programlamanın özünü kavramak
+açısından önemlidir.
 
 ### 1. Ham Veri
 **En alt düzeyde veri,** donanım üzerinde elektriksel sinyaller, manyetik alan
-değişimleri veya transistörlerin açık/kapalı durumları şeklinde bulunur. Bu ham
-veri, insan için doğrudan anlamlı değildir.
+değişimleri veya transistörlerin açık/kapalı durumları şeklinde bulunur.
+Bu ham veri, insan için doğrudan anlamlı değildir.
 
 ### 2. İkili (Binary) Temsil
-**Ham veriler, bilgisayar sistemlerinde ikili (0 ve 1) biçiminde temsil edilir.**
-Bu aşama, verinin bilgisayar tarafından işlenebilir hale gelmesini sağlar.
-Örneğin bir karakter, ASCII veya Unicode tablosunda belirli bir binary
+**Ham veriler, bilgisayar sistemlerinde ikili (0 ve 1) biçiminde temsil**
+**edilir.** Bu aşama, verinin bilgisayar tarafından işlenebilir hale gelmesini
+sağlar. Örneğin bir karakter, ASCII veya Unicode tablosunda belirli bir binary
 karşılığa sahiptir.
 
 ### 3. İşletim Sistemi Katmanı
-**İşletim sistemi, ham veriyi dosya sistemleri ve bellek yönetimi aracılığıyla**
-**düzenler.** Bu katmanda veri, dosyalar, dizinler ve süreçler halinde organize
-edilir. Programcıların çoğunlukla eriştiği veri, işletim sisteminin işlediği
-ve dosya biçimlerine dönüştürdüğü veridir.
+**İşletim sistemi, ham veriyi dosya sistemleri ve bellek yönetimi**
+**aracılığıyla düzenler.** Bu katmanda veri, dosyalar, dizinler ve süreçler
+halinde organize edilir. Programcıların çoğunlukla eriştiği veri, işletim
+sisteminin işlediği ve dosya biçimlerine dönüştürdüğü veridir.
 
 ### 4. Programlama Katmanı
-**Programlar,** işletim sisteminden alınan veriyi işlemek için kurallar tanımlar.
-Bu kurallar
-şu şekilde sıralanabilir:
-    - Veriyi okuma
-    - Veriyi dönüştürme
-    - Veriyi saklama
-    - Veriden yeni çıktılar üretme
+**Programlar,** işletim sisteminden alınan veriyi işlemek için kurallar
+tanımlar.
 
-**Örneğin bir metin dosyasını okuyan program,** dosyadaki karakterleri alır, işler
-ve kullanıcıya anlamlı bir içerik sunar.
+Bu kurallar şu şekilde sıralanabilir:
+- Veriyi okuma
+- Veriyi dönüştürme
+- Veriyi saklama
+- Veriden yeni çıktılar üretme
+
+**Örneğin bir metin dosyasını okuyan program,** dosyadaki karakterleri alır,
+işler ve kullanıcıya anlamlı bir içerik sunar.
 
 ### 5. Kullanıcıya Sunulan Çıktı
-**Son aşamada veri,** kullanıcıya anlaşılır biçimde sunulur. Bu bir metin, görsel,
-ses veya etkileşimli arayüz olabilir. Kullanıcı aslında yalnızca bu çıktıyı
-görür; oysa arka planda gerçekleşen süreç, verinin işlenmesidir.
+**Son aşamada veri,** kullanıcıya anlaşılır biçimde sunulur. Bu bir metin,
+görsel, ses veya etkileşimli arayüz olabilir. Kullanıcı aslında yalnızca bu
+çıktıyı görür; oysa arka planda gerçekleşen süreç, verinin işlenmesidir.
 
 ---
 
@@ -158,9 +158,9 @@ her adım, Aristoteles’in kıyas mantığına benzer şekilde belirli bir sonu
 doğurur.
 
 ### 2. Veri ve Anlam
-**Felsefe,** “anlam” üzerine düşünür; programlama ise veriyi anlamlı hale getirir.
-Ham veri, insan için anlamsızdır. Ancak programlama sayesinde bu veri
-dönüştürülür, yorumlanır ve kullanıcıya anlamlı bir çıktı olarak sunulur.
+**Felsefe,** “anlam” üzerine düşünür; programlama ise veriyi anlamlı hale
+getirir. Ham veri, insan için anlamsızdır. Ancak programlama sayesinde bu
+veri dönüştürülür, yorumlanır ve kullanıcıya anlamlı bir çıktı olarak sunulur.
 Bu süreç, felsefenin “bilgiyi işleme” çabasının teknolojik bir karşılığıdır.
 
 ### 3. İnsan ve Makine Arasındaki Köprü
@@ -179,19 +179,18 @@ modern çağın felsefi pratiği olarak görülebilir.
 ---
 
 ## Sonuç ve Katkılar
-**Bu çalışmada,** bilgisayar programlarının özünün veriyi işlemek ve dönüştürmek
-olduğu vurgulanmıştır. Kullanıcıya sunulan görsel arayüzler ve çıktılar,
-aslında bu derin süreçlerin yalnızca yüzeydeki yansımalarıdır. Programlama,
-veriyi anlamlı hale getirme sanatıdır ve bu yönüyle modern çağın felsefi
-pratiği olarak değerlendirilebilir.
+**Bu çalışmada,** bilgisayar programlarının özünün veriyi işlemek ve
+dönüştürmek olduğu vurgulanmıştır. Kullanıcıya sunulan görsel arayüzler ve
+çıktılar, aslında bu derin süreçlerin yalnızca yüzeydeki yansımalarıdır.
+Programlama, veriyi anlamlı hale getirme sanatıdır ve bu yönüyle modern çağın
+felsefi pratiği olarak değerlendirilebilir.
 
 **Kendi yaklaşımımda programlamayı** sadelik, modülerlik ve insan gözünün
-rahatlıkla anlayabileceği yapılar üzerine kurmayı hedefliyorum. **Bu vizyon,**
-yazılım geliştirme sürecinde hem teknik hem de düşünsel bir disiplin
-kazandırmayı amaçlamaktadır.
+rahatlıkla anlayabileceği yapılar üzerine kurmayı hedefliyorum.
+**Bu vizyon,** yazılım geliştirme sürecinde hem teknik hem de düşünsel bir
+disiplin kazandırmayı amaçlamaktadır.
 
 Bu bakış açısının yazılım dünyasına katkıları şunlardır:
-
 - **Temel kavrayış:** Programlamanın özünü veri işleme olarak tanımlamak,
 geliştiricilerin yazılımı daha derinlemesine anlamalarını sağlar.
 
@@ -206,9 +205,10 @@ getirir.
 farklı bir bakış açısı kazandırabilir ve programcıların kendi mantıklarını daha
 bilinçli şekilde kurmalarına yardımcı olabilir.
 
-**Sonuç olarak,** bilgisayar programlarının özü veriyi işlemek ve anlamlı çıktılar
-üretmektir. Bu temel üzerine kurulan vizyon, hem bireysel yazılım geliştirme
-sürecine hem de genel yazılım disiplinine değerli katkılar sunabilir.
+**Sonuç olarak,** bilgisayar programlarının özü veriyi işlemek ve anlamlı
+çıktılar üretmektir. Bu temel üzerine kurulan vizyon, hem bireysel yazılım
+geliştirme sürecine hem de genel yazılım disiplinine değerli katkılar
+sunabilir.
 
 ---
 
