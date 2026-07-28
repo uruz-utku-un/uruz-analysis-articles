@@ -39,11 +39,12 @@ ancient times, because programming, just like the systems of thought of those
 times, focuses on thinking about data and giving meaning to it.
 
 ### Problem Statement
-**Today, programming** is often perceived as simply "writing code."
-However, the essence of code is to process and transform data. Many developers
-overlook this fundamental fact and focus solely on the output. This approach
-makes it more difficult to understand the logical foundations of software and
-reduces the discipline of programming to a superficial activity.
+**Today, programming is often perceived as simply "writing code."**
+**However, the essence of code is to process and transform data.**
+Many developers overlook this fundamental fact and focus solely on
+the output. This approach makes it more difficult to understand the logical
+foundations of software and reduces the discipline of programming to
+a superficial activity.
 
 ### Objective
 **The objective of this work** is to define the essence of programming as data
