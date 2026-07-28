@@ -212,6 +212,8 @@ sürecine hem de genel yazılım disiplinine değerli katkılar sunabilir.
 ---
 
 ## Teşekkür ve Katkı Beyanı
-Bu çalışmada ortaya konan fikirler tarafıma aittir. Metnin düzenlenmesi ve akademik bir yapıya oturtulması aşamasında Microsoft Copilot’tan editörlük desteği alınmıştır.
+Bu çalışmada ortaya konan fikirler tarafıma aittir. Metnin düzenlenmesi ve
+akademik bir yapıya oturtulması aşamasında Microsoft Copilot’tan editörlük
+desteği alınmıştır.
 \
-[Ham Metni Görüntüle]()
+[Ham Metni Görüntüle](./raw/Essence-of-Programming.md)
