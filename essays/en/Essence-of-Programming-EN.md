@@ -3,227 +3,226 @@
 **Document Version:**
 V1.0
 \
-**Created by:**
+**Authors:**
 Utku Ün (Uruz)
 
-This work explores the essence of computer programs and approaches programming
-not merely as a technical activity, but also as an intellectual process. The
-visible functions of software --such as adjusting screen brightness or logging in
-with a password-- are considered to be only surface-level manifestations of
-underlying data processing.
+**This work** examines the essence of computer programs and approaches
+programming not only as a technical activity but also as an intellectual
+process. The apparent functions of programs --for example, adjusting the screen
+brightness or logging in by entering a password-- are, in fact, considered
+to be surface-level reflections that emerge as a result of data processing.
 
-The study defines data as the fundamental raw material of software development
-and explains the transformation process from raw data to the output presented
-to the user. By emphasizing the philosophical dimension of programming, it
-argues that writing code is a modern practice of logic and philosophy.
+**In this work, data** is defined as the fundamental raw material of the
+software development process; the processing pipeline from raw data to the
+output presented to the user is explained. By emphasizing the philosophical
+dimension of programming, it is argued that writing code is the modern practice
+of logic and philosophy.
 
-This perspective aims to build programming upon the principles of simplicity,
-modularity, and readability. In doing so, it seeks both to provide a new
+**This approach** aims to build programming upon the principles of simplicity,
+modularity, and understandability. In doing so, it seeks both to provide a new
 perspective on the discipline of software development and to integrate
 programming with an intellectual vision.
 
 ---
 
 ## Introduction
-The fundamental purpose of computer programs is to systematically perform
-specific tasks. However, the visible side of these tasks—such as adjusting
-screen brightness or logging in with a password—is merely the output presented
-to the user. In reality, what programs do is process data and transform that
-data into meaningful results.
+**The fundamental reason for the existence of computer programs** is, at its
+core, to perform specific tasks systematically. However, the visible aspect of
+these tasks—for example, adjusting the screen brightness or logging in by
+entering a password—is merely the output presented to the user. In reality,
+what programs do is process data and transform that data into a meaningful
+result.
 
-Programming is not only a technical activity but also an intellectual process.
-In my view, programming is a modern reflection of ancient philosophy because,
-like the systems of thought developed in earlier times, it is centered on
-thinking about data and giving it meaning.
+**Programming** is not only a technical activity but also an intellectual
+process. In my view, programming is a modern reflection of the philosophy of
+ancient times, because programming, just like the systems of thought of those
+times, focuses on thinking about data and giving meaning to it.
 
 ### Problem Statement
-Today, programming is often perceived simply as "writing code." However, the
-essence of code lies in processing and transforming data. Many developers
-overlook this fundamental reality and focus only on the resulting output. This
-approach makes it more difficult to understand the logical foundations of
-software and reduces programming to a superficial activity.
+**Today, programming** is often perceived as simply "writing code."
+However, the essence of code is to process and transform data. Many developers
+overlook this fundamental fact and focus solely on the output. This approach
+makes it more difficult to understand the logical foundations of software and
+reduces the discipline of programming to a superficial activity.
 
 ### Objective
-The purpose of this work is to define the essence of programming as data
-processing and to present this perspective in a systematic manner.
+**The objective of this work** is to define the essence of programming as data
+processing and to present this approach systematically.
 
-- First, the concept of data and its representations across different layers
-  of computer systems will be explained.
+- **First,** the different forms in which data is represented across the
+  various layers of computer systems will be explained.
 
-- Second, it will be demonstrated that the primary function of programs is to
+- **Second,** it will be demonstrated that the function of programs is to
   transform data and produce meaningful outputs.
 
-- Finally, this perspective will be used to present a personal vision: a data
-  processing philosophy built upon simplicity, modularity, and structures that
-  are easy for humans to understand.
+- **Finally,** a personal vision will be presented based on this perspective:
+  a philosophy of data processing built upon simplicity, modularity, and
+  structures that are easy for the human eye to understand.
 
 ### Methodology
-This text aims to provide a conceptual framework. It begins by explaining the
-function of computer programs through examples, then discusses the concept of
-data from a technical perspective. Afterwards, the philosophical dimension of
-programming is examined, leading to the presentation of a personal vision.
-Through this method, the work establishes both a theoretical and an
-intellectual foundation that may guide future software development efforts.
+**This text** aims to provide a conceptual framework. First, the function of
+computer programs will be explained through examples, followed by a technical
+discussion of the concept of data. Afterwards, the philosophical dimension of
+programming will be discussed, and a personal vision will be presented. Through
+this method, both a theoretical and an intellectual foundation will be
+established, developing a perspective that can guide future software
+development efforts.
 
 ---
 
 ## Why Is Data Important?
-Data is the most fundamental raw material of computer systems. The role of
-programs is to process, transform, and present this data as meaningful output
-to users. Therefore, the importance of data stems not only from its technical
-nature but also from the fact that it constitutes the very reason software
-exists.
+**Data is the most fundamental raw material of computer systems.** The function
+of programs is to process, transform, and present this data to users in the
+form of meaningful outputs. Therefore, the importance of data stems not only
+from being a technical element but also from forming the very reason for the
+existence of software.
 
 ### 1. The Representation of Information
-Data is the representation of information within a computer system. Humans
-primarily perceive information as text, images, or sound. Computers, however,
-represent information solely as data stored in binary form. Programming is the
-process of transforming this data into forms that humans can understand.
+**Data is the representation of information within a computer system.** For
+humans, information is generally perceived as text, images, or sound. For a
+computer, however, information consists solely of data stored in the binary
+system. Programming is the process of transforming this data into forms that
+humans can understand.
 
-### 2. The Operating System and Its Layers
-Hardware works directly with raw data. Electrical signals, changes in magnetic
-fields, or the on/off states of transistors represent the lowest-level form of
-this raw data. The operating system processes this data, stores it in files,
-and makes it available to programs. Most of the data that programmers interact
-with is data that has already been processed and organized by the operating
-system.
+### 2. The Operating System and Layers
+**Hardware works directly with raw data;** electrical signals, changes in
+magnetic fields, or the on/off states of transistors are the lowest-level
+representations of this raw data. The operating system processes this data,
+stores it in files, and makes it available to programs. The data that
+programmers interact with most of the time is the data processed by the
+operating system and transformed into file formats.
 
 ### 3. Data in the Programming Process
-When writing a program, what we are actually doing is defining rules for
-processing data. These rules govern how data is read, transformed, stored, and
-reproduced. Consequently, programming can be regarded as the art of making data
-meaningful.
+**What we actually do when writing a program is define rules for processing**
+**data.** These rules are built around reading, transforming, storing, and
+reproducing data. Therefore, programming is the art of making data meaningful.
 
 ### 4. Data and Meaning
-Data is not merely a technical element; it is also the carrier of meaning. The
-characters stored in a text file, the pixel values of an image, or the waveform
-contained in an audio file are nothing more than numbers from the computer's
-perspective. Through programming, however, these numbers acquire meaning and
-become useful to people.
+**Data is not merely a technical element; it is also the carrier of meaning.**
+The characters stored in a text file, the pixel values in an image, or the
+waveform in an audio file are nothing more than numbers to a computer.
+However, through programming, these numbers acquire meaning and become usable
+for humans.
 
 ---
 
-## The Data Processing Process
-Within computer systems, data passes through multiple layers before it becomes
-meaningful. Understanding this process step by step is essential for grasping
-the true nature of programming.
+## The Data Processing Pipeline
+**Data becomes meaningful by passing through different layers within computer**
+**systems.** Examining this process step by step is essential to understanding
+the essence of programming.
 
 ### 1. Raw Data
-At the lowest level, data exists as electrical signals, magnetic field changes,
-or the on/off states of transistors within hardware. This raw data has no
-direct meaning to humans.
+**At the lowest level, data** exists as electrical signals, changes in magnetic
+fields, or the on/off states of transistors within the hardware. This raw data
+is not directly meaningful to humans.
 
 ### 2. Binary Representation
-Raw data is represented in binary form (0s and 1s) within computer systems.
-This stage makes the data processable by computers. For example, a character
-has a specific binary representation according to an encoding standard such as
-ASCII or Unicode.
+**Raw data is represented in binary (0s and 1s) within computer systems.**
+**This** stage makes the data processable by the computer. For example, a
+character has a specific binary representation in the ASCII or Unicode table.
 
 ### 3. The Operating System Layer
-The operating system organizes raw data through file systems and memory
-management. At this level, data is structured into files, directories, and
-processes. The data that programmers usually interact with is the processed
-form provided by the operating system.
+**The operating system organizes raw data through file systems and memory**
+**management.** At this layer, data is organized into files, directories, and
+processes. The data that programmers most commonly access is the data that has
+been processed by the operating system and transformed into file formats.
 
 ### 4. The Programming Layer
-Programs define rules for processing data received from the operating system.
-These rules generally include:
+**Programs** define rules for processing the data obtained from the operating
+system.
+
+These rules can be listed as follows:
 - Reading data
 - Transforming data
 - Storing data
-- Producing new outputs from existing data
+- Producing new outputs from data
 
-For example, a program that reads a text file takes the characters contained in
-the file, processes them, and presents meaningful content to the user.
+**For example, a program that reads a text file** takes the characters stored
+in the file, processes them, and presents meaningful content to the user.
 
-### 5. User-Facing Output
-In the final stage, the processed data is presented to the user in an
-understandable form. This may take the form of text, images, audio, or an
-interactive user interface. The user sees only this final output, while the
-underlying process is fundamentally one of data processing.
+### 5. Output Presented to the User
+**In the final stage, data** is presented to the user in an understandable
+form. This may be text, an image, audio, or an interactive interface. The user
+actually sees only this output; however, the process taking place in the
+background is the processing of data.
 
 ---
 
-## Programming and Philosophy
-Programming is not merely a technical activity concerned with computer
-systems; it is also an intellectual process. Throughout history, philosophy
-has been humanity's pursuit of knowledge, the search for meaning, and the
-development of logical principles. In a similar way, programming is the
-process of interpreting data and processing it through well-defined rules.
+## The Relationship Between Programming and Philosophy
+**Programming** is not merely a technical activity related to computer systems;
+it is also an intellectual process. Throughout history, philosophy has been
+the human endeavor to attain knowledge, question meaning, and develop logical
+principles. Similarly, programming is the process of giving meaning to data
+and processing it through rules.
 
 ### 1. Logic and Rules
-One of the most fundamental branches of philosophy is logic. Logic establishes
-the principles of correct reasoning. Likewise, programming defines rules for
-processing data. An algorithm is, in essence, a chain of logical reasoning for
-the modern age; each step leads to a specific conclusion, much like
-Aristotle's syllogistic logic.
+**One of the most important branches of philosophy is logic.** Logic
+establishes the principles of correct reasoning. Programming, likewise,
+defines rules for processing data. An algorithm is, in essence, the logical
+chain of the modern age; each step produces a specific result in a manner
+similar to Aristotle's syllogistic logic.
 
 ### 2. Data and Meaning
-Philosophy seeks to understand the nature of meaning, whereas programming
-makes data meaningful. Raw data is meaningless to humans on its own. Through
-programming, however, that data is transformed, interpreted, and presented to
-users as meaningful output. In this sense, programming can be viewed as the
-technological counterpart to philosophy's pursuit of transforming information
-into knowledge.
+**Philosophy** reflects upon "meaning," whereas programming makes data
+meaningful. Raw data is meaningless to humans. However, through programming,
+this data is transformed, interpreted, and presented to the user as meaningful
+output. This process is the technological counterpart of philosophy's pursuit
+of "processing knowledge."
 
 ### 3. The Bridge Between Humans and Machines
-Philosophy is humanity's effort to understand and interpret the world.
-Programming, on the other hand, serves as the bridge between the human mind
-and the machine. Code conveys human thought to a computer, and the computer
-executes those ideas according to a defined set of rules. In this way,
-programming enables abstract thought to be transformed into tangible results.
+**Philosophy is humanity's effort to make sense of the world.**
+**Programming, on the other hand, is the bridge between the human mind and the machine.**
+**Code** conveys human thought to the machine, and the machine applies that
+thought according to defined rules. In this way, programming enables thought
+to be transformed into a tangible product.
 
 ### 4. A Reflection of Modern Philosophy
-In ancient times, philosophers developed logical systems and conceptual
-frameworks to understand the order of the universe. Today, programmers develop
-algorithms and data structures to understand and manage the digital world. In
-this respect, programming may be regarded as a philosophical practice of the
-modern age.
+**In ancient times, philosophers** developed logic and concepts to understand
+the order of the universe. Today, programmers develop algorithms and data
+structures to understand and manage the digital order of the universe. In this
+sense, programming can be regarded as the philosophical practice of the modern
+age.
 
 ---
 
 ## Conclusion and Contributions
-This work has emphasized that the essence of computer programs lies in
-processing and transforming data. The graphical user interfaces and outputs
-presented to users are, in reality, only the surface-level reflections of
-these deeper processes. Programming is the art of making data meaningful, and
-in this sense, it can be regarded as a philosophical practice of the modern
-age.
+**This work** has emphasized that the essence of computer programs is to
+process and transform data. The visual interfaces and outputs presented to the
+user are, in fact, only surface-level reflections of these deeper processes.
+Programming is the art of making data meaningful and, in this respect, can be
+considered a philosophical practice of the modern age.
 
-In my own approach, I aim to build programming upon the principles of
-simplicity, modularity, and structures that are easy for humans to understand.
-This vision seeks to establish both technical and intellectual discipline
+**In my own approach, I aim to build programming** upon the principles of
+simplicity, modularity, and structures that can be easily understood by the
+human eye.
+**This vision** aims to establish both a technical and intellectual discipline
 within the software development process.
 
-The contributions of this perspective to the software world can be summarized
-as follows:
+The contributions of this perspective to the world of software are as follows:
+- **Fundamental understanding:** Defining the essence of programming as data
+  processing enables developers to understand software more deeply.
 
-- **Fundamental Understanding:** Defining the essence of programming as data
-  processing enables developers to gain a deeper understanding of software.
+- **Discipline and vision:** The principles of simplicity and modularity
+  contribute to creating sustainable and understandable software architectures.
 
-- **Discipline and Vision:** The principles of simplicity and modularity
-  contribute to the creation of sustainable, maintainable, and understandable
-  software architectures.
+- **Philosophical dimension:** Viewing programming as an intellectual process
+  transforms software development into not only a technical but also a mental
+  activity.
 
-- **Philosophical Dimension:** Viewing programming as an intellectual process
-  elevates software development beyond a purely technical activity into a form
-  of disciplined reasoning.
+- **New perspective:** This approach may provide a different perspective on
+  future software development methods and help programmers establish their own
+  logic more consciously.
 
-- **A New Perspective:** This approach may provide a different perspective on
-  future software development methodologies and help programmers construct
-  their own logical frameworks more consciously.
-
-In conclusion, the essence of computer programs is to process data and produce
-meaningful outputs. A vision built upon this foundation has the potential to
-make valuable contributions both to individual software development practices
-and to the broader discipline of software engineering.
+**As a result,** the essence of computer programs is to process data and
+produce meaningful outputs. The vision built upon this foundation can provide
+valuable contributions both to individual software development processes and to
+the broader discipline of software.
 
 ---
 
-## Acknowledgments and Statement of Contributions
-The ideas presented in this work are my own. Editorial assistance from
-Microsoft Copilot was used during the process of refining the text and
-organizing it into an academic structure.
-
+## Acknowledgment and Contribution Statement
+**The ideas presented in this work belong to me.** During the process of
+editing the text and shaping it into an academic structure, editorial support
+was received from Microsoft Copilot.
 \
-[View the Original Draft](../raw/Essence-of-Programming.md)
+[View the Raw Text](../raw/Essence-of-Programming.md)
