@@ -125,8 +125,8 @@ character has a specific binary representation in the ASCII or Unicode table.
 ### 3. The Operating System Layer
 **The operating system organizes raw data through file systems and memory**
 **management.** At this layer, data is organized into files, directories, and
-processes. The data that programmers most commonly access is the data that has
-been processed by the operating system and transformed into file formats.
+processes. **The data that programmers most commonly access is the data** that
+has been processed by the operating system and transformed into file formats.
 
 ### 4. The Programming Layer
 **Programs** define rules for processing the data obtained from the operating
