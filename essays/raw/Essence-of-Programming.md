@@ -3,7 +3,7 @@
 **Belgenin Oluşturulma Tarihi:**
 2026-07-28
 \
-**Fikir Sahipleri:**
+**Görüş Sahipleri:**
 Utku Ün (Uruz)
 
 ---
