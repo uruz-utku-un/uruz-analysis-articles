@@ -84,8 +84,8 @@ bu veriyi insanın anlayabileceği biçimlere dönüştürme sürecidir.
 **Donanım doğrudan ham verilerle çalışır;** elektriksel sinyaller, manyetik
 alan değişimleri veya transistörlerin açık/kapalı durumları bu ham verinin
 en alt düzeydeki karşılığıdır. İşletim sistemi bu veriyi işler, dosyalarda
-saklar ve programlara sunar. Programcıların çoğu zaman doğrudan uğraştığı veri,
-işletim sisteminin işlediği ve dosya biçimlerine dönüştürdüğü veridir.
+saklar ve programlara sunar. Programcıların çoğu zaman doğrudan uğraştığı
+veri, işletim sisteminin işlediği ve dosya biçimlerine dönüştürdüğü veridir.
 
 ### 3. Programlama Sürecinde Veri
 **Bir program yazarken aslında yaptığımız şey, veriyi işlemek için kurallar**
