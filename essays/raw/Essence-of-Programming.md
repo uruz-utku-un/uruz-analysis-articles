@@ -1,12 +1,9 @@
 # Programlamanın Özü: Veri ve Düşünce
 \
-**Belge Sürümü:**
-V1.0
-\
 **Belgenin Oluşturulma Tarihi:**
 2026-07-28
 \
-**Belgeyi Oluşturanlar:**
+**Fikir Sahipleri:**
 Utku Ün (Uruz)
 
 ---
