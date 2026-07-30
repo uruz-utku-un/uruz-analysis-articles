@@ -121,7 +121,7 @@ karşılığa sahiptir.
 ### 3. İşletim Sistemi Katmanı
 **İşletim sistemi, ham veriyi dosya sistemleri ve bellek yönetimi**
 **aracılığıyla düzenler.** Bu katmanda veri, dosyalar, dizinler ve süreçler
-halinde organize edilir. Programcıların çoğunlukla eriştiği veri, işletim
+halinde organize edilir. **Programcıların çoğunlukla eriştiği veri,** işletim
 sisteminin işlediği ve dosya biçimlerine dönüştürdüğü veridir.
 
 ### 4. Programlama Katmanı
