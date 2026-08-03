@@ -179,7 +179,7 @@ modern çağın felsefi pratiği olarak görülebilir.
 
 ---
 
-## Sonuç ve Katkılar
+## Sonuç
 **Bu çalışmada,** bilgisayar programlarının özünün veriyi işlemek ve
 dönüştürmek olduğu vurgulanmıştır. Kullanıcıya sunulan görsel arayüzler ve
 çıktılar, aslında bu derin süreçlerin yalnızca yüzeydeki yansımalarıdır.
