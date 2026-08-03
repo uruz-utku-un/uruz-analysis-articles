@@ -1,5 +1,8 @@
 # Uruz Yaşam Ağacının Temelleri
 \
+**Belgenin Oluşturulma Tarihi:**
+2026-07-28
+\
 **Belge Sürümü:**
 V1.0
 \
