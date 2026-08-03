@@ -186,7 +186,7 @@ age.
 
 ---
 
-## Conclusion and Contributions
+## Conclusion
 **This work** has emphasized that the essence of computer programs is to
 process and transform data. The visual interfaces and outputs presented to the
 user are, in fact, only surface-level reflections of these deeper processes.
