@@ -1,13 +1,22 @@
 # Uruz Yaşam Ağacının Temelleri
 \
 **Belgenin Oluşturulma Tarihi:**
-2026-07-28
+2026-08-03
 \
 **Belge Sürümü:**
 V1.0
 \
 **Belgeyi Oluşturanlar:**
 Utku Ün (Uruz)
+
+**Başlıklar:**
+- [Genel İlke - 1](#genel-i̇lke---1)
+- [Genel İlke - 2](#genel-i̇lke---2)
+- [Genel İlke - 3](#genel-i̇lke---3)
+- [Tek Bileşen Akışı](#tek-bileşen-akışı)
+- [Çoklu Bileşen Akışı](#çoklu-bileşen-akışı)
+- [Tersine Bileşen Akışı (Tersine Mühendislik)](#tersine-bileşen-akışı-tersine-mühendislik)
+- [Tasarım Felsefesinin Öngürülen Sektörel Yansımaları](#tasarım-felsefesine-öngürülen-sektörel-yansımaları)
 
 ---
 
@@ -173,3 +182,32 @@ edebilmek gerekir.
 \
 Bu özellik her bileşen için geçerli değildir; fakat güvenlik ve veri
 erişilebilirliği açısından bu tür bileşenlerde kritik öneme sahiptir.
+ 
+---
+
+## Tasarım Felsefesinin Öngürülen Sektörel Yansımaları
+1. **Avantajlar**
+    - Bu tasarım felsefesi sayesinde büyük ekiplerin üstleneceği işler, daha
+      küçük ekipler tarafından daha temiz ve verimli şekilde yapılabilir.
+    - Küçük ekipler, daha az bütçe ile çalışırken ters orantılı olarak daha
+      kaliteli işler ortaya koyabilir. 
+    - Geleneksel olarak küçük ekiplerin iş yükü ve maliyet sebebiyle kurumsal
+      yapı kazanmaları zorken bu felsefe sayesinde
+      **yeni oluşumların artması** ve köklü kuruluşların yanında rekabetçi bir
+      ekosistemin gelişmesi öngörülmektedir.
+    - Bu felsefenin hedeflerinden biri de, ortaya çıkan ürünlerin
+      **anlaşılabilirliğini arttırmak** olduğu için kullanıcıların öğrenme
+      sürecini kolaylaştırır. Böylece ürünün ekosistemine dahil olma süreci
+      hızlanır ve kullanıcı kitlesi genişleyebilir.
+
+2. **Dezavantajlar**
+    - Köklü kuruluşlar için az iş gücüyle aynı veya daha iyi işlerin
+      yapılabilmesi, "az maliyet, çok iş" politikları, artan maliyet baskısı
+      veya kontrolsüz büyüme gibi sebeplerden dolayı iş gücünde küçülmeye yol
+      açabilir. Bu durum çalışanlar açısından olumsuz sonuçlar doğurabilir.
+    - Ancak unutulmamalıdır ki, bu tasarım felsefesi aynı zamanda
+      **tecürbeli bireylerin ve küçük-bağımsız ekiplerin** kendi
+      girişimlerini kurmalarına ve daha iyi olanakların kapısını
+      aralamalarına da zemin hazırlayabilir.
+      Böylece sektörde yeni rekabet alanları ve daha dinamik bir ekosistem
+      oluşabilir.
