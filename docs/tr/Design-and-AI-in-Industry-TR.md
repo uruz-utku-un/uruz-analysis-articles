@@ -96,7 +96,8 @@ prensipler, felsefeler ve ortak hareket etme bilinci doğuruyor.
 Bugün yapay zekâ da aynı döngünün içinde. Hızlı büyüyor, tüketim
 çılgınlığına kapılan kitleler var, ticari çıkarların öne geçtiği bir
 rekabet ortamı var. Ancak bu süreç sonunda yapay zekâ da daha sağlam
-prensiplerle yoluna devam edeceğini düşünüyorum. 
+prensiplerle yoluna devam edeceğini düşünüyorum.
+
 ---
 
 ## Teşekkür ve Katkı Beyanı
