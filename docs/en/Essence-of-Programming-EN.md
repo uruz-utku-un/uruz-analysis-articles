@@ -1,10 +1,10 @@
 # The Essence of Programming: Data and Thought
 \
-**Document Version:**
-V1.0
-\
 **Document Creation Date:**
 2026-07-28
+\
+**Document Version:**
+V1.0
 \
 **Authors:**
 Utku Ün (Uruz)
