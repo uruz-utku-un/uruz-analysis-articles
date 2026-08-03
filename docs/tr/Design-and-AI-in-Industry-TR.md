@@ -16,6 +16,7 @@ Ev, yapay zekâ gündemde ve büyük bir hızla kaynakları kullanarak büyüyor
 Ancak bu gelişmelerden ayrı bir dünyada yaşamıyorum; sektörü kendi
 doğrultumda takip ediyorum. O yüzden bu yazımda bir kaç hikayeden
 bahsedeceğim.
+
 ---
 
 ## "Tarih tekerrürden ibaret"
