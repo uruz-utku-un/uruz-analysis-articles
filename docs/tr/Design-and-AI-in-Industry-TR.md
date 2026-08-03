@@ -65,7 +65,7 @@ ASML'nin geliştrildiği litografi teknolojisi, ışığı aşırı incelterek
 elektronik devreler yazmayı mümkün kıldı.
 Bu teknolojiye ulaşmak için uzun yıllar boyunca büyük yatırımlar yapıldı.
 İlk başlarda bir çok firma projeyi sonlandırdı, netice alınamadı. Ancak
-daha sonra lisanları devralan kuruluşlar kaynak ayırarak çalışmaları
+daha sonra lisansları devralan kuruluşlar kaynak ayırarak çalışmaları
 sürdürdü. Rekabet halinde olan bu kurumlar bir noktada
 **ortak hareket etmeleri gerektiğini** fark ettiler. Ortak bütçelerle
 yürütülen uzun vadeli çalışmalar sonucunda, bugün yarı iletken sektörünün
