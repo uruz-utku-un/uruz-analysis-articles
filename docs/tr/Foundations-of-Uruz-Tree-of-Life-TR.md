@@ -103,7 +103,7 @@ Bu yaklaşımın amaçları:
 flowchart LR
 START(Başla)
 END(Son)
-COMPONENT(Bileşen)
+COMPONENT[Bileşen]
 
 START -->|Girdi| COMPONENT -->|Sonuç| END
 ```
@@ -122,9 +122,9 @@ START -->|Girdi| COMPONENT -->|Sonuç| END
 flowchart LR
 START(Başla)
 END(Son)
-COMPONENT_X(Bileşen-X)
-COMPONENT_Y(Bileşen-Y)
-COMPONENT_Z(Bileşen-Z)
+COMPONENT_X[Bileşen-X]
+COMPONENT_Y[Bileşen-Y]
+COMPONENT_Z[Bileşen-Z]
 
 START -->|Girdi| COMPONENT_X
 COMPONENT_X -->|Sonuç| COMPONENT_Y
@@ -152,7 +152,7 @@ COMPONENT_Z -->|Sonuç| END
 flowchart LR
 INPUT(Girdi)
 RESULT(Sonuç)
-COMPONENT(Bileşen)
+COMPONENT[Bileşen]
 
 INPUT --> COMPONENT --> RESULT
 RESULT --> COMPONENT --> INPUT
