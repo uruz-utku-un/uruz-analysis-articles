@@ -28,8 +28,8 @@ programming with an intellectual vision.
 ## Introduction
 **The fundamental reason for the existence of computer programs** is, at its
 core, to perform specific tasks systematically. However, the visible aspect of
-these tasks—for example, adjusting the screen brightness or logging in by
-entering a password—is merely the output presented to the user. In reality,
+these tasks --for example, adjusting the screen brightness or logging in by
+entering a password-- is merely the output presented to the user. In reality,
 what programs do is process data and transform that data into a meaningful
 result.
 
