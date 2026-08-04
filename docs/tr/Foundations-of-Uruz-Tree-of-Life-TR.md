@@ -202,12 +202,12 @@ erişilebilirliği açısından bu tür bileşenlerde kritik öneme sahiptir.
 
 2. **Dezavantajlar**
     - Köklü kuruluşlar için az iş gücüyle aynı veya daha iyi işlerin
-      yapılabilmesi, "az maliyet, çok iş" politikları, artan maliyet baskısı
-      veya kontrolsüz büyüme gibi sebeplerden dolayı iş gücünde küçülmeye yol
-      açabilir. Bu durum çalışanlar açısından olumsuz sonuçlar doğurabilir.
-    - Ancak unutulmamalıdır ki, bu tasarım felsefesi aynı zamanda
+      yapılabilmesi, **"az maliyet, çok iş" politikları, artan maliyet baskısı**
+      **veya kontrolsüz büyüme gibi sebeplerden dolayı iş gücünde küçülmeye yol**
+      **açabilir.** Bu durum çalışanlar açısından olumsuz sonuçlar doğurabilir.
+    - **Ancak unutulmamalıdır ki,** bu tasarım felsefesi aynı zamanda
       **tecürbeli bireylerin ve küçük-bağımsız ekiplerin** kendi
       girişimlerini kurmalarına ve daha iyi olanakların kapısını
       aralamalarına da zemin hazırlayabilir.
-      Böylece sektörde yeni rekabet alanları ve daha dinamik bir ekosistem
-      oluşabilir.
+      Böylece sektörde **yeni rekabet alanları ve daha dinamik bir**
+      **ekosistem oluşabilir.**
