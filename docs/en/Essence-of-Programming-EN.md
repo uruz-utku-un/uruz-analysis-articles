@@ -1,6 +1,6 @@
 # The Essence of Programming: Data and Thought
 \
-**Document Creation Date:**
+**Document Date of Birth:**
 2026-07-28
 \
 **Document Version:**
