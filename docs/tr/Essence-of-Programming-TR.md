@@ -1,6 +1,6 @@
 # Programlamanın Özü: Veri ve Düşünce
 \
-**Belgenin Oluşturulma Tarihi:**
+**Belgenin Doğum Tarihi:**
 2026-07-28
 \
 **Belge Sürümü:**
