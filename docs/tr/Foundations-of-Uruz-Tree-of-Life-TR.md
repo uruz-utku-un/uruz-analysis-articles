@@ -99,7 +99,8 @@ Bu yaklaşımın amaçları:
   kullanıcı arayüzü öğeleri eklenirse, kısa vadede "zengin" görünse de uzun
   vadede hem bakım zorlaşır hem de kullanıcı için öğrenme süreci karmaşık
   hale gelir.
-  \ Bu nedenle her özellik, yalnızca **gerçek ve temel bir ihtiyacı**
+  \
+  Bu nedenle her özellik, yalnızca **gerçek ve temel bir ihtiyacı**
   **karşılıyorsa** eklenmelidir. 
 
 ---
