@@ -1,6 +1,6 @@
 # Uruz Yaşam Ağacının Temelleri
 \
-**Belgenin Oluşturulma Tarihi:**
+**Belgenin Doğum Tarihi:**
 2026-08-03
 \
 **Belge Sürümü:**
