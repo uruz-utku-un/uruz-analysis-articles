@@ -38,8 +38,8 @@ geçmesiyle gündemi sarsan başka bir olay oldu. Herkes Bitcoin konuşuyordu,
 fakat bir süre sonra bu heyecan söndü ve unutuldu gitti.
 
 Madencilik için ekran kartlarının stoklarını tüketen kişiler, fiyatların
-fırlamasına sebep oldular. Sonrasında ise çok düşük fiyatlara ikincil
-piyasaları doldurdular. Benzer bir durumu yapay zekâ çıktığında RAM’lerde de
+fırlamasına sebep oldular. Sonrasında ise çok düşük fiyatlara ikinci el
+piyasalarını doldurdular. Benzer bir durumu yapay zekâ çıktığında RAM’lerde de
 yaşadık. Bunun nihai sonucu ne oldu veya olacak, henüz net olarak görmedik.
 
 Bu örnek aslında şunu gösteriyor: İnsanların büyük bir çoğunluğu ne yazık ki
