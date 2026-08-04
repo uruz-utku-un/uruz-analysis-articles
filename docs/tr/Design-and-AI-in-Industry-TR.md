@@ -1,6 +1,6 @@
 # Tasarım Felsefesi ve Sektörde Yapay Zekâ
 \
-**Belgenin Oluşturulma Tarihi:**
+**Belgenin Doğum Tarihi:**
 2026-08-03
 \
 **Belge Sürümü:**
