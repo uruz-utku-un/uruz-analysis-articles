@@ -18,6 +18,9 @@ Utku Ün (Uruz)
 - [Tersine Bileşen Akışı (Tersine Mühendislik)](#tersine-bileşen-akışı-tersine-mühendislik)
 - [Tasarım Felsefesinin Öngürülen Sektörel Yansımaları](#tasarım-felsefesine-öngürülen-sektörel-yansımaları)
 
+> Ayrıntılı düşünce süreci için ilgili deneme yazısına göz atabilirsiniz:
+[Programlamanın Özü: Veri ve Düşünce](https://github.com/uruz-utku-un/uruz-thoughts/blob/main/docs/tr/Essence-of-Programming-TR.md)
+
 ---
 
 ## Genel İlke - 1
