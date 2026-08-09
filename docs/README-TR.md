@@ -8,6 +8,8 @@ düzenli ve erişilebilir şekilde paylaşılabildiği bir alan oluşturmaktır.
 
 **Depo [Creative Commons BY-NC 4.0](../LICENSE.md) ile lisanslanmıştır.**
 
+---
+
 # Belgeler
 - [Programlamanın Özü: Veri ve Düşünce](./tr/Essence-of-Programming-TR.md)
 - [Tasarım Felsefesi ve Sektörde Yapay Zekâ](./tr/Design-and-AI-in-Industry-TR.md)
