@@ -1,8 +1,7 @@
 # Finansal Temel ve Değer Kavramı
-# Tasarım Felsefesi ve Sektörde Yapay Zekâ
 \
 **Belgenin Ortaya Çıkış Tarihi:**
-2026-08-03
+2026-08-27
 \
 **Belge Sürümü:**
 V1.0
@@ -12,6 +11,13 @@ Utku Ün (Uruz)
 \
 **Belgeyi Çevirenler:**
 Bu belge, yazarın ana dilinde yazılmıştır.
+
+---
+
+**Başlıklar:**
+- [1. Değer Nedir?](#1-değer-nedir)
+- [2. Altının Evrensel Değeri](#2-altının-evrensel-değeri)
+- [3. Finansal Değerin Tanımı](#3-finansal-değerin-tanımı)
 
 ---
 
