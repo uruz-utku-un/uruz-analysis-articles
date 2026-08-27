@@ -4,10 +4,13 @@
 2026-08-03
 \
 **Belge Sürümü:**
-V1.0
+V1.1
 \
 **Belgeyi Oluşturanlar:**
 Utku Ün (Uruz)
+\
+**Belgeyi Çevirenler:**
+Bu belge, yazarın ana dilinde yazılmıştır.
 
 Bugün sektörde ne çok konuşulan konu yapay zekâ. Peki neden ben tasarım
 felsefesi üzerine düşünüyorum?
