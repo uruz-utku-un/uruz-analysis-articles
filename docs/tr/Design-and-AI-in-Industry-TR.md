@@ -12,6 +12,8 @@ Utku Ün (Uruz)
 **Belgeyi Çevirenler:**
 Bu belge, yazarın ana dilinde yazılmıştır.
 
+---
+
 Bugün sektörde ne çok konuşulan konu yapay zekâ. Peki neden ben tasarım
 felsefesi üzerine düşünüyorum?
 
