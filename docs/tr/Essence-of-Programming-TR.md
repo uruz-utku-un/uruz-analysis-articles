@@ -12,6 +12,8 @@ Utku Ün (Uruz)
 **Belgeyi Çevirenler:**
 Bu belge, yazarın ana dilinde yazılmıştır.
 
+---
+
 **Bu çalışma,** bilgisayar programlarının özünü sorgulamakta ve programlamayı
 yalnızca teknik bir faaliyet değil, aynı zamanda düşünsel bir süreç olarak
 ele almaktadır. Programların görünen işlevleri --örneğin ekran parlaklığını
