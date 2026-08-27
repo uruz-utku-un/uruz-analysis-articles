@@ -4,7 +4,7 @@
 2026-08-03
 \
 **Belge Sürümü:**
-V1.1
+V1.0
 \
 **Belgeyi Oluşturanlar:**
 Utku Ün (Uruz)
