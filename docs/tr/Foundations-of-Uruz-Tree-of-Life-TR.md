@@ -8,6 +8,9 @@ V1.0
 \
 **Belgeyi Oluşturanlar:**
 Utku Ün (Uruz)
+\
+**Belgeyi Çevirenler:**
+Bu belge, yazarın ana dilinde yazılmıştır.
 
 **Başlıklar:**
 - [Genel İlke - 1](#genel-i̇lke---1)
