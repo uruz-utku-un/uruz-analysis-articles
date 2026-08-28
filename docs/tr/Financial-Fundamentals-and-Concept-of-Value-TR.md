@@ -23,9 +23,10 @@ Bu belge, yazarın ana dilinde yazılmıştır.
 
 ## 1. Değer nedir?
 Değer, nadirlikten değil **yaşamı sürdürme ve üretime katkısından** doğar.
-- **Uranyum, elmas gibi hammaddeler** nadir oldukları için değerli görünür.
-  Ancak bu değer, sistemin işleyişine bağlıdır. Sistem çökerse işlenemez
-  hale gelir ve anlamını yitirir.
+- **Uranyum, elmas gibi hammaddeler (değerli madenler)** nadir oldukları
+  için değerli görünür.
+  Ancak bu değer, sistemin işleyişine ve güvenine dayanır. Sistem çökerse
+  işlenemez hale gelir ve anlamını yitirir.
 - **Tarım** ise sistem olsun ya da olmasın her zaman temel değerdir. Çünkü
   doğrudan insanın en temel ihtiyacına çözüm sunar: gıda. Aç bir insan
   düşünemez, üretemez, yaşayamaz.
@@ -48,14 +49,25 @@ değerini koruyabilme potansiyali yüksek olan nadir bir varlıktır.
 
 ## 3. Finansal Değerin Tanımı
 Finansal değer, insanın yaşamını sürdürmesine ve üretmesine katkı sağlayan
-şeylerin **ölçülebilir karşılığıdır (türkçe ifade edersek "ederidir").**
-- **Gelir:**
-  Emek, üretim, varlık ve finansal yatırımlardan doğar.
-- **Gider:**
-  Temel ihtiyaçlar, toplumsal gereklilikler ve sahip olma/zevk alma
-  arzularından doğar.
-- **Net Değer:**
-  Gelir ve giderin dengesidir. Gerçek değeri ortaya çıkarmak için altın
-  bazında ölçüm yapılabilir.
+şeylerin **ölçülebilir karşılığıdır** (Türkçe ifade edersek: *ederidir*).
 
+Finansal değer üç temel boyutta incelenebilir:
+ 1. **Gelir**
+    - İnsan emeği, üretim faaliyetleri, sahip olunan varlıklar ve finansal
+      yatırımlar sonucunda ortaya çıkar.
+    - Gelir, yaşamı sürdürmek ve üretimi devam ettirmek için gerekli
+      kaynakları sağlar.  
+2. **Gider**
+    - Temel ihtiyaçlar (barınma, gıda, sağlık), toplumsal gereklilikler 
+      (iletişim, eğitim, abonelikler vb.) ve sahip olma/zevk alma
+      arzularından doğar.
+    - Gider, yaşamın devamı için zorunlu olanla isteğe bağlı olanı ayırarak
+      finansal disiplinin temelini oluşturur.
+3. **Net Değer**
+    - Gelir ve giderin dengesini ifade eder.
+    - Gerçek değeri ortaya çıkarmak için **altın bazında ölçüm** yapılabilir.
+      Altın, tarih boyunca evrensel bir değer ölçüsü olmuş; hem finansal,
+      hem kültürel, hem de teknolojik alanlarda işlenebilirliği sayesinde
+      güvenilir bir temel sağlamıştır.
+      
 ## 4. Peki Bir Nesnenin-Ürünün-İnsanın Ederi Nedir?
