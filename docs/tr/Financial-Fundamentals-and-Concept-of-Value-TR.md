@@ -96,4 +96,50 @@ var olabilmek için net değer iyi bir seviyede olmalıdır.
 Sıfırda veya sıfırın altındaysan, sıfırdan bir şeyleri inşa etmeyi geç;
 bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
 
+### 3.3 Net Değer Tabloları
+Kısa vadede:
+- Ayın her günü gelir ve giderler kayıt altına alınır.
+- Her ay için toplam gelir ve toplam gider hesaplanır ve net değer
+hesaplanır.
+
+```Txt
+Kısa Vadede Finansal Değer Tablosu - 2026 (AU)
+----------------------------------------------------------
+Aylar     |  Toplam Gider |  Toplam Gelir |     Net Değer  
+----------------------------------------------------------
+Ocak      |          0.00 |          0.00 |          0.00 
+Şubat     |          0.00 |          0.00 |          0.00 
+Mart      |          0.00 |          0.00 |          0.00 
+Nisan     |          0.00 |          0.00 |          0.00 
+Mayıs     |          0.00 |          0.00 |          0.00 
+Haziran   |          0.00 |          0.00 |          0.00 
+Temmuz    |          0.00 |          0.00 |          0.00 
+Ağustos   |          0.00 |          0.00 |          0.00 
+Eylül     |          0.00 |          0.00 |          0.00 
+Ekim      |          0.00 |          0.00 |          0.00 
+Kasım     |          0.00 |          0.00 |          0.00 
+Aralık    |          0.00 |          0.00 |          0.00 
+----------------------------------------------------------
+Toplam    |          0.00 |          0.00 |          0.00 
+----------------------------------------------------------
+```
+
+Uzun vadede:
+- Kısa vadede tüm aylar için hesaplanan gelir ve gider
+  toplamları o yıl için hesaplanır.
+- O yılki toplam gelirden toplam gider çıkarılır ve 
+  o yıla ait net değer bulunur.
+
+```Txt
+Uzun Vadede Finansal Değer Tablosu (AU)
+----------------------------------------------------------
+Yıllar    |  Toplam Gider |  Toplam Gelir |     Net Değer 
+----------------------------------------------------------
+2026      |          0.00 |          0.00 |          0.00 
+2027      |          0.00 |          0.00 |          0.00 
+2028      |          0.00 |          0.00 |          0.00 
+----------------------------------------------------------
+Toplam    |          0.00 |          0.00 |          0.00 
+----------------------------------------------------------
+```
 ## 4. Peki Bir Nesnenin-Ürünün-İnsanın Ederi Nedir?
