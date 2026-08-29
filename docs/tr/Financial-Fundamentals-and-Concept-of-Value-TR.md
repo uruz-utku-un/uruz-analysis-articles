@@ -14,6 +14,10 @@ Bu belge, yazarın ana dilinde yazılmıştır.
 
 ---
 
+
+
+---
+
 **Başlıklar:**
 - [1. Değer Nedir?](#1-değer-nedir)
 - [2. Altının Evrensel Değeri](#2-altının-evrensel-değeri)
@@ -70,17 +74,26 @@ Finansal değer üç temel boyutta incelenebilir:
       hem kültürel, hem de teknolojik alanlarda işlenebilirliği sayesinde
       güvenilir bir temel sağlamıştır.
 
+### 3.1 Net Değer Nasıl Ölçülür?
+Net değer, **belirli bir zaman diliminde gelir ve giderin farkıyla ölçülür.**
+```Txt
+Net Değer = Toplam Gelir - Toplam Gider
+```
+
+### 3.2 Net Değerin Kritik Önemi
 **Burada amaç,** geliri çeşitlendirip artırırken giderleri düşük seviyelerde
 tutmaktır.
 
 **Net değer, negatif ise bu bir felakettir; sıfırda veya belirli bir eşiğin**
 **altında kalıyorsa yaşamın durması anlamına gelir.**
+\
 En temelde bir insanın yaşamını sürdürebilmesi için net değer belirli bir
 miktarda olmalıdır. Daha da önemlisi, üretim yapabilmek ve toplum içinde
 var olabilmek için net değer iyi bir seviyede olmalıdır.
 
 **Bu, bireysel değil, toplumsal bir zorunluluktur.**
-**Sıfırda veya sıfırın altındaysan,** sıfırdan bir şeyleri inşa etmeyi geç;
+\
+Sıfırda veya sıfırın altındaysan, sıfırdan bir şeyleri inşa etmeyi geç;
 bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
 
 ## 4. Peki Bir Nesnenin-Ürünün-İnsanın Ederi Nedir?
