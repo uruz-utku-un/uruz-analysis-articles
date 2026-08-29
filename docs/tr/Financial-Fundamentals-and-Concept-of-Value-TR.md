@@ -36,7 +36,7 @@ Altın, tarih boyunca **evrensel bir değer ölçüsü** olmuştur. Bunun sebepl
 - **Erişilebilirlik:**
   İnsanlık tarihinin her döneminde bulunabilmiş ve işlenebilmiştir. 
 - **İstikrar:**
-  Uzun vadedei, kağıt para veya dijital rakamlar değerini kaybedebilir,
+  Uzun vadede kağıt para veya dijital rakamlar değerini kaybedebilir,
   altın ise değerini korur.
 - **Çok yönlü kullanım:**
     - Finansal araç -> para birimi, yatırım, tasarruf vb.
@@ -69,5 +69,18 @@ Finansal değer üç temel boyutta incelenebilir:
       Altın, tarih boyunca evrensel bir değer ölçüsü olmuş; hem finansal,
       hem kültürel, hem de teknolojik alanlarda işlenebilirliği sayesinde
       güvenilir bir temel sağlamıştır.
-      
+
+**Burada amaç,** geliri çeşitlendirip artırırken giderleri düşük seviyelerde
+tutmaktır.
+
+**Net değer, negatif ise bu bir felakettir; sıfırda veya belirli bir eşiğin**
+**altında kalıyorsa yaşamın durması anlamına gelir.**
+En temelde bir insanın yaşamını sürdürebilmesi için net değer belirli bir
+miktarda olmalıdır. Daha da önemlisi, üretim yapabilmek ve toplum içinde
+var olabilmek için net değer iyi bir seviyede olmalıdır.
+
+**Bu, bireysel değil, toplumsal bir zorunluluktur.**
+**Sıfırda veya sıfırın altındaysan,** sıfırdan bir şeyleri inşa etmeyi geç;
+bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
+
 ## 4. Peki Bir Nesnenin-Ürünün-İnsanın Ederi Nedir?
