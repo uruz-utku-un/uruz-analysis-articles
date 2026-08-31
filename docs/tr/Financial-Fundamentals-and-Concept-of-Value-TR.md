@@ -100,7 +100,7 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
 
 Gelir Para Kasası:
 ```Txt
-Finansal Değer Tablosu (Yıl-Ay)
+Finansal Değer Tablosu (<yıl>-<ay>)
 ----------------------------------------------------------------------
 Kategori                 |          Miktar (TL) |                   AU
 ----------------------------------------------------------------------
