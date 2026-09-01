@@ -139,7 +139,7 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
   ----------------------------------------------------------------------
   "."<=Miktar + . | . + "."<=12 + .  | . + "."<=9 + .  | . + "."<=Miktar
   ----------------------------------------------------------------------
-  Miktar + 1      |       1 + 12 + 1 |       1 + 9 + 1 |      1 + Miktar
+  Miktar + 1      |  1 + 12 + 1 (14) |  1 + 9 + 1 (11) |      1 + Miktar
   ```
 - Tablonun bir satırına ait toplam boyutun, en fazla 76-90 karakter arasında
   tutulması önerilir.
