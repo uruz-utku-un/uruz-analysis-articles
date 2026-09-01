@@ -90,7 +90,7 @@ bağımlılığını gösterir.
 **Bu hiyerarşi,** dalları ve karmaşık yan yolları (felsefe, dugular,
 içgüdüler, spor, teknoloji, diplomasi, iletişim, eğitim gibi) **bilinçli**
 **olarak dışarıda bırakır.**
-
+\
 **Amaç,** tüm varlıkların ortak ve vazgeçilmez zincirlerini
 **en yalın haliyle** göstermektir.
 
