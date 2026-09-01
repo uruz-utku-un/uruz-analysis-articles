@@ -91,8 +91,8 @@ bağımlılığını gösterir.
 içgüdüler, spor, teknoloji, diplomasi, iletişim, eğitim gibi) **bilinçli**
 **olarak dışarıda bırakır.**
 
-**Amaç,** tüm varlıkların ortak ve vazgeçilmez zincirlerini en yalın haliyle
-göstermektir.
+**Amaç,** tüm varlıkların ortak ve vazgeçilmez zincirlerini
+**en yalın haliyle** göstermektir.
 
 ```mermaid
 flowchart TD
