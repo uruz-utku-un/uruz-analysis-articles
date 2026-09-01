@@ -1,7 +1,9 @@
 # Uruz - Düşünceler
-**Bu depo,** şahsıma ve katkıda bulunanlara ait ortak yazıları barındırır.
-İçerik; yazılım geliştirme, mimari düşünceler ve kişisel deneme yazılarından
-oluşur.
+**Bu depo,** benim ve diğer katkıda bulunanların ortaklaşa hazırladığı
+yazıları barındırmaktadır.
+\
+**İçerik;** yazılım geliştirme konularını, mimari yaklaşımları,
+bir konu hakkında düşünce ve yazıları kapsamaktadır.
 
 **Amaç,** bireysel ve ortak üretimlerin bir arada tutulduğu, fikirlerin
 düzenli ve erişilebilir şekilde paylaşılabildiği bir alan oluşturmaktır.
