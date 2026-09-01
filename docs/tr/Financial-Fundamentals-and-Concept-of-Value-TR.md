@@ -88,8 +88,9 @@ bağımlılığını gösterir.
   oluşturur.
 
 **Bu hiyerarşi,** dalları ve karmaşık yan yolları (felsefe, dugular,
-içgüdüler, spor, teknoloji, diplomasi, iletişim, eğitim gibi) **bilinçli**
-**olarak dışarıda bırakır.**
+içgüdüler, spor, teknoloji, diplomasi, iletişim, eğitim,
+doğuştan kaybedilmiş sağlık, kaza sonucu kaybedilen sağlık,
+suyun üretimdeki yeri gibi) **bilinçli olarak dışarıda bırakır.**
 \
 **Amaç,** tüm varlıkların ortak ve vazgeçilmez zincirlerini
 **en yalın haliyle** göstermektir.
