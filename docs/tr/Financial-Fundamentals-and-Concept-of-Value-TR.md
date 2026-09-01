@@ -31,6 +31,7 @@ aracılığıyla kısa ve uzun vadeli finansal değer takibini gösterir.
 
 **Başlıklar:**
 - [1. Değer Nedir?](#1-değer-nedir)
+  - [1.1 İhtiyaçlar Hiyerarşisi](#11-i̇htiyaçlar-hiyerarşisi)
 - [2. Altının Evrensel Değeri](#2-altının-evrensel-değeri)
 - [3. Finansal Değerin Tanımı](#3-finansal-değerin-tanımı)
   - [3.1 Net Değer Nasıl Ölçülür](#31-net-değer-nasıl-ölçülür)
@@ -44,6 +45,10 @@ aracılığıyla kısa ve uzun vadeli finansal değer takibini gösterir.
 
 ## 1. Değer nedir?
 Değer, nadirlikten değil **yaşamı sürdürme ve üretime katkısından** doğar.
+\
+**Yani kısaca, değer** hem soyut bir düşünce hem de somut bir nesne olabilir; 
+önemli olan yaşamı sürdürmeye ve üretime katkı sağlamasıdır.
+
 - **Uranyum, elmas gibi hammaddeler (değerli madenler)** nadir oldukları
   için değerli görünür.
   Ancak bu değer, sistemin işleyişine ve güvenine dayanır.
@@ -65,7 +70,7 @@ Değer, nadirlikten değil **yaşamı sürdürme ve üretime katkısından** do�
   gerek yoktur; sadece şu soruyu sormak yeterlidir:
   **Eğer suya erişimimizi kaybetseydik ne olurdu?**
 
-## 1.1 İhtiyaçlar Hiyerarşisi
+### 1.1 İhtiyaçlar Hiyerarşisi
 Bu şema, yaşamın sürdürülebilmesi için gerekli değerlerin birbirine
 bağımlılığını gösterir.
 \
