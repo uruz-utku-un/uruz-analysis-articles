@@ -13,5 +13,5 @@ düzenli ve erişilebilir şekilde paylaşılabildiği bir alan oluşturmaktır.
 # Belgeler
 - [Finansal Temel ve Değer Kavramı](./tr/Financial-Fundamentals-and-Concept-of-Value-TR.md)
 - [Programlamanın Özü: Veri ve Düşünce](./tr/Essence-of-Programming-TR.md)
-- [Tasarım Felsefesi ve Sektörde Yapay Zekâ](./tr/Design-and-AI-in-Industry-TR.md)
+- [2026-08-03] [Tasarım Felsefesi ve Sektörde Yapay Zekâ](./tr/Design-and-AI-in-Industry-TR.md)
 - [2026-08-03] [Uruz Yaşam Ağacının Temelleri](./tr/Foundations-of-Uruz-Tree-of-Life-TR.md)
