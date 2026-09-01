@@ -1,7 +1,7 @@
 # Uruz - Düşünceler
 **Bu depo,** benim ve diğer katkıda bulunanların ortaklaşa hazırladığı
 yazıları barındırmaktadır.
-\
+
 **İçerik;** yazılım geliştirme konularını, mimari yaklaşımları,
 bir konu hakkında düşünce ve yazıları kapsamaktadır.
 
