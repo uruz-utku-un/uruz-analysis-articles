@@ -14,7 +14,18 @@ Bu belge, yazarın ana dilinde yazılmıştır.
 
 ---
 
+**Bu belge,** finansal değer kavramını sistematik bir çerçevede tanımlamak
+için hazırlanmıştır.
+\
+İlk bölümde "değer"'in anlamı açıklanmış, ardından altının tarihsel ve
+evrensel ölçü birimi olarak rolü ele alınmıştır. Üçüncü bölümde
+finansal değer; gelir, gider ve net değer boyutlarıyla incelenmiş,
+net değerin ölçüm yöntmeleri ve kritik önemi vurgulanmıştır.
 
+**Belge,** yalnızca teorik bir tanım sunmakla kalmaz; aynı zamanda tablolar
+aracılığıyla kısa ve uzun vadeli finansal değer takibini gösterir.
+**Böylece bireysel ve toplumsal düzeyde finansal disiplinin nasıl**
+**sağlanabileceğine dair hem kavramsal hem pratik bir yol haritası sunar.**
 
 ---
 
@@ -130,6 +141,9 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
   ```
 - Tablonun bir satırına ait toplam boyutun, en fazla 76-90 karakter arasında
   tutulması önerilir.
+  \
+  Burada amaç tüm veriyi tek seferde görüp, rahatça kavrayabilmek ve
+  kıyaslama yapabilmektir.
 
 - Tablolarda "`+=`" değerlerin genel toplamını ifade eder.
  
