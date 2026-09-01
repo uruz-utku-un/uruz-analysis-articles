@@ -22,6 +22,11 @@ Bu belge, yazarın ana dilinde yazılmıştır.
 - [1. Değer Nedir?](#1-değer-nedir)
 - [2. Altının Evrensel Değeri](#2-altının-evrensel-değeri)
 - [3. Finansal Değerin Tanımı](#3-finansal-değerin-tanımı)
+  - [3.1 Net Değer Nasıl Ölçülür](#31-net-değer-nasıl-ölçülür)
+  - [3.2 Net Değerin Kritik Önemi](#32-net-değerin-kritik-önemi)
+  - [3.3 Finansal Değer Tabloları](#33-finansal-değer-tabloları)
+  - [3.3.1 Tablo Standartları](#331-tablo-standartları)
+  - [3.3.2 Tablolar](#332-tablolar)
 
 ---
 
@@ -53,7 +58,8 @@ değerini koruyabilme potansiyali yüksek olan nadir bir varlıktır.
 
 ## 3. Finansal Değerin Tanımı
 Finansal değer, insanın yaşamını sürdürmesine ve üretmesine katkı sağlayan
-şeylerin **ölçülebilir karşılığıdır** (Türkçe ifade edersek: *ederidir*).
+şeylerin **ölçülebilir karşılığıdır** (Türkçe ifade edersek: *finansal*
+*ederidir*).
 
 Finansal değer üç temel boyutta incelenebilir:
  1. **Gelir (+)**
@@ -110,16 +116,22 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
 - AU (gram bazında altın) için bireysel tablolarda milyon gram altın
   seviyelerine çıkmak pratikte mümkün değildir.
   ```txt
-  Rakam      | Boyut |        float | Boyut
-  -----------------------------------------
-  999.999,99 |    10 |    999999.99 |     9
+  Rakam          | Boyut |        float | Boyut
+  ---------------------------------------------
+  999.999,99     |    10 |    999999.99 |     9
   ```
-- Tablo hücreleri için yapı şu şekilde olmalıdır:
+- Tablo hücreleri için boyutlar şu şekilde olmalıdır:
   ```txt
   İlk Hücre      |            Birim |              AU |      Son Hücre
   --------------------------------------------------------------------
   <=Miktar + " " | " " + <=12 + " " | " " + <=9 + " " | " " + <=Miktar
+  --------------------------------------------------------------------
+  Miktar + 1     |       1 + 12 + 1 |       1 + 9 + 1 |     1 + Miktar
   ```
+- Tablonun bir satırına ait toplam boyutun, en fazla 76-90 karakter arasında
+  tutulması önerilir.
+
+- Tablolarda "`+=`" değerlerin genel toplamını ifade eder.
  
 ### 3.3.2 Tablolar
 - **Finansal Değer Tablosu (Aylık)**
@@ -206,4 +218,3 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
   += |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
   -----------------------------------------------------------------------------------
   ```
-## 4. Peki Bir Nesnenin-Ürünün-İnsanın Ederi Nedir?
