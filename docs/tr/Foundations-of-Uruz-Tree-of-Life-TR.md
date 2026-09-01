@@ -83,7 +83,7 @@ Bu yaklaşımın amaçları:
 ## Genel İlke - 3 
 - Bu ilke daha çok **ürün aşamasını** hedefler.
 - Bileşenlere bir özellik yalnızca "olsun diye" eklenmemelidir.
-  Evet, teknik olarak eklenebilir ve yazpılabilir bir özellik olabilir;
+  Evet, teknik olarak eklenebilir ve yapılabilir bir özellik olabilir;
   ancak bu tek başına hiçbir değer taşımaz.
 - Bir özelliğin **süslü veya gösterişli olması,** onun kullanışlı ya da
   gerekli olduğu anlamına gelmez. 
