@@ -49,8 +49,14 @@ Değer, nadirlikten değil **yaşamı sürdürme ve üretime katkısından** do�
   Ancak bu değer, sistemin işleyişine ve güvenine dayanır. Sistem çökerse
   işlenemez hale gelir ve anlamını yitirir.
 - **Tarım** ise sistem olsun ya da olmasın her zaman temel değerdir. Çünkü
-  doğrudan insanın en temel ihtiyacına çözüm sunar: gıda. Aç bir insan
-  düşünemez, üretemez, yaşayamaz.
+  doğrudan insanın en temel ihtiyacına çözüm sunar: *gıda (su dahil)*. 
+  **Aç bir insan düşünemez, üretemez, yaşayamaz.** Aynı zamanda sağlığın
+  temellerini oluşturan kritik anahtarlardan biridir.
+  
+  **Tarım toplumların sürdürülebilirliği için stratejik bir değerdir.**
+  Ekonomik sistemler çöktüğünde bile gıda üretimi devam ettiği sürece yaşam
+  ve üretim kapasitesi korunur. Bu nedenle tarım, hem bireysel hem de
+  toplumsal açıdan en temel ve vazgeçilmez değer olarak kabul edilmelidir.
 
 ## 2. Altının Evrensel Değeri
 Altın, tarih boyunca **evrensel bir değer ölçüsü** olmuştur. Bunun sebepleri
