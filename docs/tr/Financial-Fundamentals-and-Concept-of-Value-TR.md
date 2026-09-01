@@ -95,7 +95,7 @@ içgüdüler, spor, teknoloji, diplomasi, iletişim, eğitim gibi) **bilinçli**
 göstermektir.
 
 ```mermaid
-flowchart RL
+flowchart TD
   WATER(Su)
   FOOD[Gıda]
   HEALTH[Sağlık]
