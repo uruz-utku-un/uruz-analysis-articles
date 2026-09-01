@@ -46,8 +46,8 @@ aracılığıyla kısa ve uzun vadeli finansal değer takibini gösterir.
 Değer, nadirlikten değil **yaşamı sürdürme ve üretime katkısından** doğar.
 - **Uranyum, elmas gibi hammaddeler (değerli madenler)** nadir oldukları
   için değerli görünür.
-  Ancak bu değer, sistemin işleyişine ve güvenine dayanır. Sistem çökerse
-  işlenemez hale gelir ve anlamını yitirir.
+  Ancak bu değer, sistemin işleyişine ve güvenine dayanır.
+  **Sistem çökerse işlenemez hale gelir ve anlamını yitirir.**
 - **Tarım** ise sistem olsun ya da olmasın her zaman temel değerdir. Çünkü
   doğrudan insanın en temel ihtiyacına çözüm sunar: *gıda*. 
   **Aç bir insan düşünemez, üretemez, yaşayamaz.** Aynı zamanda sağlığın
@@ -65,6 +65,60 @@ Değer, nadirlikten değil **yaşamı sürdürme ve üretime katkısından** do�
   gerek yoktur; sadece şu soruyu sormak yeterlidir:
   **Eğer suya erişimimizi kaybetseydik ne olurdu?**
 
+## 1.1 İhtiyaçlar Hiyerarşisi
+Bu şema, yaşamın sürdürülebilmesi için gerekli değerlerin birbirine
+bağımlılığını gösterir.
+\
+**Okların yönü, hangi değerin diğerine ihtiyaç duyduğunu işaret eder.**
+
+- **Su ve gıda** en temel halkalardır. Sağlık, üretim ve ekonomi gibi tüm
+  diğer değerler bu ikisine bağlıdır.
+- **Sağlık** doğrudan su ve gıdaya bağlıdır; bireyin varlığı ve üretim
+  kapasitesi sağlıklı bir yaşamla mümkündür.
+- **Birey ve topluluk** su, gıda ve sağlık üzerine inşa edilir. Topluluk,
+  bireylerin bir araya gelmesiyle oluşur. 
+- **Üretim** birey ve toplulukların varlığına dayanır; üretim olmadan
+  ekonomi gelişemez.
+- **Ekonomi** üretim kapasitesinin sonucudur ve güçlü bir sitemin temelini
+  oluşturur.
+
+**Bu hiyerarşi,** dalları ve karmaşık yan yolları (felsefe, dugular,
+içgüdüler, spor, teknoloji, diplomasi, iletişim, eğitim gibi) **bilinçli**
+**olarak dışarıda bırakır.**
+
+**Amaç,** tüm varlıkların ortak ve vazgeçilmez zincirlerini en yalın haliyle
+göstermektir.
+
+```mermaid
+flowchart RL
+  WATER(Su)
+  FOOD[Gıda]
+  HEALTH[Sağlık]
+  INDIVIDUAL[Birey]
+  COMMUNITY[Topluluk]
+  PRODUCTION[Üretim]
+  ECONOMY[Ekonomi]
+  SYSTEM[Sistem]
+
+
+  FOOD --> WATER
+
+  HEALTH --> WATER
+  HEALTH --> FOOD
+
+  INDIVIDUAL --> WATER
+  INDIVIDUAL --> FOOD
+  INDIVIDUAL --> HEALTH
+
+  COMMUNITY --> INDIVIDUAL
+
+  PRODUCTION --> INDIVIDUAL
+  PRODUCTION --> COMMUNITY
+
+  ECONOMY --> PRODUCTION
+
+  SYSTEM --> ECONOMY
+```
 
 ## 2. Altının Evrensel Değeri
 Altın, tarih boyunca **evrensel bir değer ölçüsü** olmuştur. Bunun sebepleri
