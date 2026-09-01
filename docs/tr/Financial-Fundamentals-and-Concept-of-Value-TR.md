@@ -130,13 +130,16 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
   ---------------------------------------------
   999.999,99     |    10 |    999999.99 |     9
   ```
-- Tablo hücreleri için boyutlar şu şekilde olmalıdır:
+- Tablo hücreleri için boyutlar şu şekilde olmalıdır: 
   ```txt
-  İlk Hücre      |            Birim |              AU |      Son Hücre
-  --------------------------------------------------------------------
-  <=Miktar + " " | " " + <=12 + " " | " " + <=9 + " " | " " + <=Miktar
-  --------------------------------------------------------------------
-  Miktar + 1     |       1 + 12 + 1 |       1 + 9 + 1 |     1 + Miktar
+  .: Bırakılacak boşluk
+  ".": Karakter ve boşluk ikilisinin miktarı
+
+  İlk Hücre       |            Birim |              AU |       Son Hücre
+  ----------------------------------------------------------------------
+  "."<=Miktar + . | . + "."<=12 + .  | . + "."<=9 + .  | . + "."<=Miktar
+  ----------------------------------------------------------------------
+  Miktar + 1      |       1 + 12 + 1 |       1 + 9 + 1 |      1 + Miktar
   ```
 - Tablonun bir satırına ait toplam boyutun, en fazla 76-90 karakter arasında
   tutulması önerilir.
