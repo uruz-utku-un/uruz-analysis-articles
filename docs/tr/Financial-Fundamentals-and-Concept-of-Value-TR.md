@@ -56,18 +56,18 @@ Finansal değer, insanın yaşamını sürdürmesine ve üretmesine katkı sağl
 şeylerin **ölçülebilir karşılığıdır** (Türkçe ifade edersek: *ederidir*).
 
 Finansal değer üç temel boyutta incelenebilir:
- 1. **Gelir**
+ 1. **Gelir (+)**
     - İnsan emeği, üretim faaliyetleri, sahip olunan varlıklar ve finansal
       yatırımlar sonucunda ortaya çıkar.
     - Gelir, yaşamı sürdürmek ve üretimi devam ettirmek için gerekli
       kaynakları sağlar.  
-2. **Gider**
+2. **Gider (-)**
     - Temel ihtiyaçlar (barınma, gıda, sağlık), toplumsal gereklilikler 
       (iletişim, eğitim, abonelikler vb.) ve sahip olma/zevk alma
       arzularından doğar.
     - Gider, yaşamın devamı için zorunlu olanla isteğe bağlı olanı ayırarak
       finansal disiplinin temelini oluşturur.
-3. **Net Değer**
+3. **Net Değer (==)**
     - Gelir ve giderin dengesini ifade eder.
     - Gerçek değeri ortaya çıkarmak için **altın bazında ölçüm** yapılabilir.
       Altın, tarih boyunca evrensel bir değer ölçüsü olmuş; hem finansal,
@@ -77,7 +77,7 @@ Finansal değer üç temel boyutta incelenebilir:
 ### 3.1 Net Değer Nasıl Ölçülür?
 Net değer, **belirli bir zaman diliminde gelir ve giderin farkıyla ölçülür.**
 ```Txt
-Net Değer = Toplam Gelir - Toplam Gider
+Net Değer (==) = Toplam Gelir (++) - Toplam Gider (+-)
 ```
 
 ### 3.2 Net Değerin Kritik Önemi
@@ -100,96 +100,110 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
 
 ### 3.3.1 Tablo Standartları
 
-```txt
-      | float |Basamak sayısı |
--------------------------------------
-Rakam | 999999999.99 | 999999.99 |12
-Basamak sayısı | 12 | 9
-```
+- Para birimleri için bireysel tablolarda milyar seviyesine çıkmak oldukça
+  düşük bir ihtimaldir.
+  ```txt
+  Rakam          | Boyut |        float | Boyut |
+  -----------------------------------------------
+  999.999.999,99 |    14 | 999999999.99 |    12 |
+  ```
+- AU (gram bazında altın) için bireysel tablolarda milyon gram altın
+  seviyelerine çıkmak pratikte mümkün değildir.
+  ```txt
+  Rakam      | Boyut |        float | Boyut |
+  -------------------------------------------
+  999.999,99 |    10 |    999999.99 |     9 |
+  ```
+- Tablo hücreleri için yapı şu şekilde olmalıdır:
+  ```txt
+  İlk Hücre      |            Birim |              AU |      Son Hücre
+  --------------------------------------------------------------------
+  <=Miktar + " " | " " + <=12 + " " | " " + <=9 + " " | " " + <=Miktar
+  ```
  
+### 3.3.2 Tablolar
+- **Finansal Değer Tablosu (Aylık)**
+  ```Txt
+  <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
+  AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
 
-**Finansal Değer Tablosu (Aylık)**
-```Txt
-<birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
-AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
+  <yıl> - <ay>
+  ---------------------------------------------------
+  Kategori                 |      <birim> |        AU
+  ---------------------------------------------------
+  +
+  ---------------------------------------------------
+  İnsan Emeği              |         0.00 |      0.00
+  Üretim                   |         0.00 |      0.00
+  Varlıklar                |         0.00 |      0.00
+  Yatırımlar               |         0.00 |      0.00
+  Ekstra                   |         0.00 |      0.00
+  ---------------------------------------------------
+  ++                       |         0.00 |      0.00
+  ---------------------------------------------------
+  -
+  ---------------------------------------------------
+  Barınma                  |         0.00 |      0.00
+  Faturalar                |         0.00 |      0.00
+  Gıda                     |         0.00 |      0.00
+  Giyim                    |         0.00 |      0.00
+  Sağlık                   |         0.00 |      0.00
+  Ulaşım                   |         0.00 |      0.00
+  Eğitim                   |         0.00 |      0.00
+  Varlık Alımları          |         0.00 |      0.00
+  Abonelikler              |         0.00 |      0.00
+  Eğlence/Hobi             |         0.00 |      0.00
+  Lüks Harcamalar          |         0.00 |      0.00
+  Vergiler                 |         0.00 |      0.00
+  Beklenmedik Harcamalar   |         0.00 |      0.00
+  ---------------------------------------------------
+  +-                       |         0.00 |      0.00
+  ---------------------------------------------------
+  ==                       |         0.00 |      0.00
+  ---------------------------------------------------
+  ```
 
-<yıl> - <ay>
----------------------------------------------------
-Kategori                 |      <birim> |        AU
----------------------------------------------------
-+
----------------------------------------------------
-İnsan Emeği              |         0.00 |      0.00
-Üretim                   |         0.00 |      0.00
-Varlıklar                |         0.00 |      0.00
-Yatırımlar               |         0.00 |      0.00
-Ekstra                   |         0.00 |      0.00
----------------------------------------------------
-++                       |         0.00 |      0.00
----------------------------------------------------
--
----------------------------------------------------
-Barınma                  |         0.00 |      0.00
-Faturalar                |         0.00 |      0.00
-Gıda                     |         0.00 |      0.00
-Giyim                    |         0.00 |      0.00
-Sağlık                   |         0.00 |      0.00
-Ulaşım                   |         0.00 |      0.00
-Eğitim                   |         0.00 |      0.00
-Varlık Alımları          |         0.00 |      0.00
-Abonelikler              |         0.00 |      0.00
-Eğlence/Hobi             |         0.00 |      0.00
-Lüks Harcamalar          |         0.00 |      0.00
-Vergiler                 |         0.00 |      0.00
-Beklenmedik Harcamalar   |         0.00 |      0.00
----------------------------------------------------
-+-                       |         0.00 |      0.00
----------------------------------------------------
-==                       |         0.00 |      0.00
----------------------------------------------------
-```
+- **Kısa Vadede Finansal Değer Tablosu (Yıllık)**
+  ```Txt
+  <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
+  AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
 
-**Kısa Vadede Finansal Değer Tablosu (Yıllık)**
-```Txt
-<birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
-AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
+  <yıl> - <birim>
+  -----------------------------------------------------------------------------------
+  12 |           ++ |        AU |           +- |        AU |           == |        AU
+  -----------------------------------------------------------------------------------
+  01 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  02 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  03 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  04 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  05 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  06 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  07 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  08 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  09 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  10 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  11 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  12 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  -----------------------------------------------------------------------------------
+  += |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  -----------------------------------------------------------------------------------
+  ```
 
-<yıl> - <para_birimi>
------------------------------------------------------------------------------------
-12 |           ++ |        AU |           +- |        AU |           == |        AU
------------------------------------------------------------------------------------
-01 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-02 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-03 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-04 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-05 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-06 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-07 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-08 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-09 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-10 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-11 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-12 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
------------------------------------------------------------------------------------
-+= |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
------------------------------------------------------------------------------------
-```
+- **Uzun Vadede Finansal Değer Tablosu (Ömürlük)**
+  ```Txt
+  <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
+  AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
 
-**Uzun Vadede Finansal Değer Tablosu (Ömürlük)**
-```Txt
-<birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
-AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
-
-<xx_yıl>.. - <para_birimi> 
------------------------------------------------------------------------------------
-20 |           ++ |        AU |           +- |        AU |           == |        AU
------------------------------------------------------------------------------------
-.. |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-28 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-27 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
-26 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
------------------------------------------------------------------------------------
-+= |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
------------------------------------------------------------------------------------
-```
+  <xx_yıl>.. - <birim> 
+  -----------------------------------------------------------------------------------
+  20 |           ++ |        AU |           +- |        AU |           == |        AU
+  -----------------------------------------------------------------------------------
+  .. |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  28 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  27 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  26 |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  -----------------------------------------------------------------------------------
+  += |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
+  -----------------------------------------------------------------------------------
+  ```
 ## 4. Peki Bir Nesnenin-Ürünün-İnsanın Ederi Nedir?
