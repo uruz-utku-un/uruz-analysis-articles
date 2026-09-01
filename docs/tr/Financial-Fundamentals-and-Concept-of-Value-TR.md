@@ -38,6 +38,7 @@ aracılığıyla kısa ve uzun vadeli finansal değer takibini gösterir.
   - [3.3 Finansal Değer Tabloları](#33-finansal-değer-tabloları)
   - [3.3.1 Tablo Standartları](#331-tablo-standartları)
   - [3.3.2 Tablolar](#332-tablolar)
+  - [3.3.3 Ek Tablolar](#333-ek-tablolar)
 
 ---
 
@@ -114,9 +115,7 @@ Sıfırda veya sıfırın altındaysan, sıfırdan bir şeyleri inşa etmeyi ge�
 bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
 
 ### 3.3 Finansal Değer Tabloları
-
 ### 3.3.1 Tablo Standartları
-
 - Para birimleri için bireysel tablolarda milyar seviyesine çıkmak oldukça
   düşük bir ihtimaldir.
   ```txt
@@ -148,47 +147,6 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
 - Tablolarda "`+=`" değerlerin genel toplamını ifade eder.
  
 ### 3.3.2 Tablolar
-- **Finansal Değer Tablosu (Aylık)**
-  ```Txt
-  <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
-  AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
-
-  <yıl> - <ay>
-  ---------------------------------------------------
-  Kategori                 |      <birim> |        AU
-  ---------------------------------------------------
-  +
-  ---------------------------------------------------
-  İnsan Emeği              |         0.00 |      0.00
-  Üretim                   |         0.00 |      0.00
-  Varlıklar                |         0.00 |      0.00
-  Yatırımlar               |         0.00 |      0.00
-  Ekstra                   |         0.00 |      0.00
-  ---------------------------------------------------
-  ++                       |         0.00 |      0.00
-  ---------------------------------------------------
-  -
-  ---------------------------------------------------
-  Barınma                  |         0.00 |      0.00
-  Faturalar                |         0.00 |      0.00
-  Gıda                     |         0.00 |      0.00
-  Giyim                    |         0.00 |      0.00
-  Sağlık                   |         0.00 |      0.00
-  Ulaşım                   |         0.00 |      0.00
-  Eğitim                   |         0.00 |      0.00
-  Varlık Alımları          |         0.00 |      0.00
-  Abonelikler              |         0.00 |      0.00
-  Eğlence/Hobi             |         0.00 |      0.00
-  Lüks Harcamalar          |         0.00 |      0.00
-  Vergiler                 |         0.00 |      0.00
-  Beklenmedik Harcamalar   |         0.00 |      0.00
-  ---------------------------------------------------
-  +-                       |         0.00 |      0.00
-  ---------------------------------------------------
-  ==                       |         0.00 |      0.00
-  ---------------------------------------------------
-  ```
-
 - **Kısa Vadede Finansal Değer Tablosu (Yıllık)**
   ```Txt
   <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
@@ -232,3 +190,46 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
   += |         0.00 |      0.00 |         0.00 |      0.00 |         0.00 |      0.00
   -----------------------------------------------------------------------------------
   ```
+
+### 3.3.3 Ek Tablolar
+- **Finansal Değer Tablosu (Aylık)**
+  ```Txt
+  <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
+  AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
+
+  <yıl> - <ay>
+  ---------------------------------------------------
+  Kategori                 |      <birim> |        AU
+  ---------------------------------------------------
+  +
+  ---------------------------------------------------
+  İnsan Emeği              |         0.00 |      0.00
+  Üretim                   |         0.00 |      0.00
+  Varlıklar                |         0.00 |      0.00
+  Yatırımlar               |         0.00 |      0.00
+  Ekstra                   |         0.00 |      0.00
+  ---------------------------------------------------
+  ++                       |         0.00 |      0.00
+  ---------------------------------------------------
+  -
+  ---------------------------------------------------
+  Barınma                  |         0.00 |      0.00
+  Faturalar                |         0.00 |      0.00
+  Gıda                     |         0.00 |      0.00
+  Giyim                    |         0.00 |      0.00
+  Sağlık                   |         0.00 |      0.00
+  Ulaşım                   |         0.00 |      0.00
+  Eğitim                   |         0.00 |      0.00
+  Varlık Alımları          |         0.00 |      0.00
+  Abonelikler              |         0.00 |      0.00
+  Eğlence/Hobi             |         0.00 |      0.00
+  Lüks Harcamalar          |         0.00 |      0.00
+  Vergiler                 |         0.00 |      0.00
+  Beklenmedik Harcamalar   |         0.00 |      0.00
+  ---------------------------------------------------
+  +-                       |         0.00 |      0.00
+  ---------------------------------------------------
+  ==                       |         0.00 |      0.00
+  ---------------------------------------------------
+  ```
+
