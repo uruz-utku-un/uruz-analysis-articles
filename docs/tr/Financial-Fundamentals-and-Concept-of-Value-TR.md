@@ -127,7 +127,7 @@ flowchart TD
 ```
 
 ## 2. Altının Evrensel Değeri
-Altın, tarih boyunca **evrensel bir değer ölçüsü** olmuştur. Bunun sebepleri
+Altın, tarih boyunca **evrensel bir değer ölçüsü** olmuştur. Bunun sebepleri:
 - **Erişilebilirlik:**
   İnsanlık tarihinin her döneminde bulunabilmiş ve işlenebilmiştir. 
 - **İstikrar:**
