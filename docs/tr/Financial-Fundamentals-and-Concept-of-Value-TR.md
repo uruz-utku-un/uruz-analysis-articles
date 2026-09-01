@@ -103,16 +103,16 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
 - Para birimleri için bireysel tablolarda milyar seviyesine çıkmak oldukça
   düşük bir ihtimaldir.
   ```txt
-  Rakam          | Boyut |        float | Boyut |
-  -----------------------------------------------
-  999.999.999,99 |    14 | 999999999.99 |    12 |
+  Rakam          | Boyut |        float | Boyut
+  ---------------------------------------------
+  999.999.999,99 |    14 | 999999999.99 |    12
   ```
 - AU (gram bazında altın) için bireysel tablolarda milyon gram altın
   seviyelerine çıkmak pratikte mümkün değildir.
   ```txt
-  Rakam      | Boyut |        float | Boyut |
-  -------------------------------------------
-  999.999,99 |    10 |    999999.99 |     9 |
+  Rakam      | Boyut |        float | Boyut
+  -----------------------------------------
+  999.999,99 |    10 |    999999.99 |     9
   ```
 - Tablo hücreleri için yapı şu şekilde olmalıdır:
   ```txt
