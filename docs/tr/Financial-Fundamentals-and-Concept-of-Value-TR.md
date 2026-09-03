@@ -255,7 +255,7 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
   <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
   AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
 
-  FDT-<xx_yıl>-<birim> 
+  FDT-<yy_yıl>XX-<birim> 
   -----------------------------------------------------------------------------------
   20 |           ++ |        AU |           +- |        AU |           == |        AU
   -----------------------------------------------------------------------------------
