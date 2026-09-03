@@ -229,7 +229,7 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
   <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
   AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
 
-  <yıl> - <birim>
+  FDT-<yıl>-<birim>
   -----------------------------------------------------------------------------------
   12 |           ++ |        AU |           +- |        AU |           == |        AU
   -----------------------------------------------------------------------------------
@@ -255,7 +255,7 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
   <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
   AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
 
-  <xx_yıl>.. - <birim> 
+  FDT-<xx_yıl>.. - <birim> 
   -----------------------------------------------------------------------------------
   20 |           ++ |        AU |           +- |        AU |           == |        AU
   -----------------------------------------------------------------------------------
@@ -274,7 +274,7 @@ bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
   <birim>: Tablo 999.999.999,99 (≈ 1 milyar) üstü değerlerde sütun kayması yapabilir.
   AU: Tablo 999.999,99 (≈ 1 milyon) üstü değerlerde sütun kayması yapabilir.
 
-  <yıl> - <ay>
+  FDT-<yıl>-<ay>-<birim>
   ---------------------------------------------------
   Kategori                 |      <birim> |        AU
   ---------------------------------------------------
