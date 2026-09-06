@@ -10,7 +10,7 @@ V1.0
 Utku Ün (Uruz)
 \
 **Belgeyi Çevirenler:**
-Bu belge, yazarın ana dilinde yazılmıştır.
+Bu belge, orijinal dilinde (yazarın ana dilinde) sunulmuştur.
 
 ---
 
