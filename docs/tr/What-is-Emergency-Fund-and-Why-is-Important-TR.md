@@ -18,7 +18,7 @@ Bu belge, orijinal dilinde (yazarın ana dilinde) sunulmuştur.
 kişisel ve aile ekonomisi içinde “acil durum fonu” kavramını açıklamak,
 bu fonun neden kritik olduğunu göstermek ve nasıl oluşturulabileceğine dair
 yapılandırılmış bir rehber sunmak amacıyla hazırlanmıştır.
-\
+
 **Amaç,**
 bireylerin ve ailelerin beklenmedik finansal krizlerde;
 **maddi ve manevi geri dönüşü olmayan kötü kararlar almalarının önüne geçmek**
