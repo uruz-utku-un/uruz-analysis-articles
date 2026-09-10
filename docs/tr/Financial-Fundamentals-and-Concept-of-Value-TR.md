@@ -177,11 +177,11 @@ Net Değer (==) = Toplam Gelir (++) - Toplam Gider (+-)
 tutmaktır.
 - **Net değer, negatif ise bu bir felakettir; sıfırda veya belirli bir eşiğin**
   **altında kalıyorsa yaşamın durması anlamına gelir.**
-- En temelde bir insanın yaşamını sürdürebilmesi için net değer belirli bir
+- **En temelde bir insanın yaşamını sürdürebilmesi için** net değer belirli bir
   miktarda olmalıdır. Daha da önemlisi, üretim yapabilmek ve toplum içinde
   var olabilmek için net değer iyi bir seviyede olmalıdır.
 - **Bu, bireysel değil, toplumsal bir zorunluluktur.**
-- Sıfırda veya sıfırın altındaysan, sıfırdan bir şeyleri inşa etmeyi geç;
+- **Sıfırda veya sıfırın altındaysan,** sıfırdan bir şeyleri inşa etmeyi geç;
   bir yerden bir yere adım bile atmazsın. Bu, hayatın en sert gerçeğidir.
 
 ### 3.3 Finansal Değer Tabloları
