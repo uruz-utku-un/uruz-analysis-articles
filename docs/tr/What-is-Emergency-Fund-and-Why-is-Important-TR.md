@@ -15,13 +15,16 @@ Bu belge, orijinal dilinde (yazarın ana dilinde) sunulmuştur.
 ---
 
 **Bu belge,**
-Değerli olduğunu düşündüğüm birine ait evden işe motor ile yaptığı ulaşım
-şeklinin yakıt-fiyat maliyetinin tahmini hesaplamalarını içerir.
+kişisel ve aile ekonomisi içinde “acil durum fonu” kavramını açıklamak,
+bu fonun neden kritik olduğunu göstermek ve nasıl oluşturulabileceğine dair
+yapılandırılmış bir rehber sunmak amacıyla hazırlanmıştır.
 \
 **Amaç,**
-Ulaşım şekline ait tahmini maliyeti hesaplamak ve olası seçenekler ve
-öneriler için
-farklı bakış açıları sunmaktır.
+bireylerin ve ailelerin beklenmedik finansal krizlerde;
+**maddi ve manevi geri dönüşü olmayan kötü kararlar almalarının önüne geçmek**
+borçlanmadan yaşamlarını sürdürebilmeleri için gerekli güvenlik
+fonunu tanımlamak, hesaplama yöntemlerini göstermek ve uygulanabilir
+öneriler sunmaktır.
 
 ---
 
