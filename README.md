@@ -1,13 +1,21 @@
 # Uruz - Thoughts
-
-**This repository,** contains writings prepared jointly by myself and
+**This repository** contains writings prepared jointly by myself and
 other contributors.
 
-**The content,** covers software development topics, architectural
+**The content** covers software development topics, architectural
 approaches, and thoughts and articles on various subjects.
 
+# Uruz - Thoughts
+**This repository** hosts writings prepared collaboratively by myself and
+other contributors.
+\
+**The content** covers software development topics, architectural approaches,
+and thoughts or articles on various subjects.
+\
+**The goal** is to create a space where individual and collaborative works are
+gathered, and where ideas can be shared in an organized and accessible manner.
 
-**The repository is licensed under Creative Commons BY-NC 4.0.**
+**This repository is licensed under [Creative Commons BY-NC 4.0](../LICENSE.md).**
 
 ---
 
