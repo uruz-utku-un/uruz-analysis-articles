@@ -1,5 +1,13 @@
 # Uruz - Thoughts
 
+**Bu depo**, benim ve diğer katkıda bulunanların ortaklaşa hazırladığı
+yazıları içermektedir.
+
+**İçerik**; yazılım geliştirme konularını, mimari
+yaklaşımları ve çeşitli konulardaki düşünce ve makaleleri kapsamaktadır.
+
+---
+
 - [**LICENSE**](./LICENSE.md)
 
 ---
