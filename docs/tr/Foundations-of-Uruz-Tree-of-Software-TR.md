@@ -1,4 +1,4 @@
-# Uruz Yaşam Ağacının Temelleri
+# Uruz Yazılım Ağacının Temelleri
 \
 **Belgenin Ortaya Çıkış Tarihi:**
 2026-08-03
