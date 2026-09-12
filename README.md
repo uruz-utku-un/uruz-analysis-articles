@@ -1,14 +1,14 @@
 # Uruz - Thoughts
-**- This repository -**
+**This repository,**
 \
 hosts writings prepared collaboratively by myself and other contributors.
 
-**- The content -**
+**The content,**
 \
 covers software development topics, architectural approaches, and thoughts
 or articles on various subjects.
 
-**- The goal -**
+**The goal,**
 \
 is to create a space where individual and collaborative works are gathered,
 and where ideas can be shared in an organized and accessible manner.
