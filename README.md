@@ -1,10 +1,10 @@
 # Uruz - Thoughts
 
-**Bu depo**, benim ve diğer katkıda bulunanların ortaklaşa hazırladığı
-yazıları içermektedir.
+**This repository** contains writings prepared jointly by myself and
+other contributors.
 
-**İçerik**; yazılım geliştirme konularını, mimari
-yaklaşımları ve çeşitli konulardaki düşünce ve makaleleri kapsamaktadır.
+**The content** covers software development topics, architectural
+approaches, and thoughts and articles on various subjects.
 
 ---
 
