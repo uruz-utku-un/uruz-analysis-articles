@@ -13,6 +13,9 @@ or articles on various subjects.
 is to create a space where individual and collaborative works are gathered,
 and where ideas can be shared in an organized and accessible manner.
 
+---
+
+## License
 **This repository is licensed under**
 **[Creative Commons BY-NC 4.0](../LICENSE.md).**
 
