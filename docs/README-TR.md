@@ -1,17 +1,17 @@
 # Uruz - Düşünceler
-**- Bu Depo -**
+**- Bu depo -**
 \
-Benim ve diğer katkıda bulunanların ortaklaşa hazırladığı yazıları
+benim ve diğer katkıda bulunanların ortaklaşa hazırladığı yazıları
 barındırmaktadır.
 
 **- İçerik -**
 \
-Yazılım geliştirme konularını, mimari yaklaşımları,
+yazılım geliştirme konularını, mimari yaklaşımları,
 bir konu hakkında düşünce ve yazıları kapsamaktadır.
 
 **- Amaç -**
 \
-Bireysel ve ortak üretimlerin bir arada tutulduğu, fikirlerin düzenli ve
+bireysel ve ortak üretimlerin bir arada tutulduğu, fikirlerin düzenli ve
 erişilebilir şekilde paylaşılabildiği bir alan oluşturmaktır.
 
 **Depo [Creative Commons BY-NC 4.0](../LICENSE.md) ile lisanslanmıştır.**
