@@ -23,9 +23,9 @@ erişilebilir şekilde paylaşılabildiği bir alan oluşturmaktır.
 
 ## Belgeler
 ### Yazılım
-- [2026-07-28] [Programlamanın Özü: Veri ve Düşünce](./tr/Essence-of-Programming-TR.md)
 - [2026-08-03] [Tasarım Felsefesi ve Sektörde Yapay Zekâ](./tr/Design-and-AI-in-Industry-TR.md)
 - [2026-08-03] [Uruz Yazılım Ağacının Temelleri](./tr/Foundations-of-Uruz-Tree-of-Software-TR.md)
+- [2026-07-28] [Programlamanın Özü: Veri ve Düşünce](./tr/Essence-of-Programming-TR.md)
 
 ### Ekonomi
 - [2026-09-11] [Acil Durum Fonu Nedir ve Neden Çok Önemlidir?](./tr/What-is-Emergency-Fund-and-Why-is-Important-TR.md)
