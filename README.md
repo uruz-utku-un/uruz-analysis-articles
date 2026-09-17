@@ -17,7 +17,7 @@ and where ideas can be shared in an organized and accessible manner.
 
 ## License
 **This repository is licensed under**
-**[Creative Commons BY-NC 4.0](../LICENSE.md).**
+**[Creative Commons BY-NC 4.0](./LICENSE.md).**
 
 ---
 
