@@ -17,7 +17,7 @@ and where ideas can be shared in an organized and accessible manner.
 
 ## Symbols
 <div align="center">
-  <img src="./media/logos/software-logo.jpg" alt="Sofwares Logo" width="200" height="251"style="border-radius:50%;"> &nbsp;&nbsp; &nbsp;&nbsp;
+  <img src="./media/logos/software-logo.jpg" alt="Sofwares Logo" width="251" height="251"style="border-radius:50%;"> &nbsp;&nbsp; &nbsp;&nbsp;
   <img src="./media/logos/economy-logo.png" alt="Economy Logo" width="150" height="150" style="border-radius:50%;"> &nbsp;&nbsp;
 </div>
 
