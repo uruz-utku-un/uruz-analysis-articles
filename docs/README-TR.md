@@ -36,5 +36,5 @@ erişilebilir şekilde paylaşılabildiği bir alan oluşturmaktır.
 - [2026-07-28] [Programlamanın Özü: Veri ve Düşünce](./tr/Essence-of-Programming-TR.md)
 
 ### Ekonomi
-- [2026-09-11] [Acil Durum Fonu Nedir ve Neden Çok Önemlidir?](./tr/What-is-Emergency-Fund-and-Why-is-Important-TR.md)
+- [2026-09-11] [Acil Durum/Güvenlik Fonu Nedir ve Neden Çok Önemlidir?](./tr/What-is-Emergency-Fund-and-Why-is-Important-TR.md)
 - [2026-08-27] [Finansal Temel ve Değer Kavramı](./tr/Financial-Fundamentals-and-Concept-of-Value-TR.md)
