@@ -1,4 +1,4 @@
-# Acil Durum Fonu Nedir ve Neden Çok Önemlidir?
+# Acil Durum/Güvenlik Fonu Nedir ve Neden Çok Önemlidir?
 \
 **Belgenin Ortaya Çıkış Tarihi:**
 2026-09-11
@@ -29,14 +29,14 @@ fonunu tanımlamak, hesaplama yöntemlerini göstermek ve uygulanabilir
 ---
 
 **Başlıklar:**
-- [1. Acil Durum Fonu Nedir?](#problemin-tanımı)
+- [1. Acil Durum/Güvenlik Fonu Nedir?](#problemin-tanımı)
 - [2. Neden Çok Önemlidir](#2-hesaplamalar-ve-tablolar)
-- [3. Bir Acil Durum Fonu Ne Kadar Olmalıdır](#3-bir-acil-durum-fonu-ne-kadar-olmalıdır)
-- [4. Bir Acil Durum Fonu Ne Şekilde Oluşturulmalıdır](#4-bir-acil-durum-fonu-ne-şekilde-oluşturulmalıdır)
+- [3. Bir Acil Durum/Güvenlik Fonu Ne Kadar Olmalıdır](#3-bir-acil-durum-fonu-ne-kadar-olmalıdır)
+- [4. Bir Acil Durum/Güvenlik Fonu Ne Şekilde Oluşturulmalıdır](#4-bir-acil-durum-fonu-ne-şekilde-oluşturulmalıdır)
 
 ---
 
-## 1. Acil Durum Fonu Nedir?
+## 1. Acil Durum/Güvenlik Fonu Nedir?
 - **Acil durum fonu,** iş kaybı, sağlık gideri, ev/araç arızası gibi
   öngörülemeyen durumlarda kullanılmak üzere ayrılan finansal güvencedir.
 - **Amaç,** borçlanmadan yaşam standartlarını korumaktır.
@@ -70,7 +70,7 @@ fonunu tanımlamak, hesaplama yöntemlerini göstermek ve uygulanabilir
 
 ---
 
-## 3. Bir Acil Durum Fonu Ne Kadar Olmalıdır
+## 3. Bir Acil Durum/Güvenlik Fonu Ne Kadar Olmalıdır
 - En az 3-6 aylık giderlerinizi
 (barınma, faturalar, gıda ve su, sağlık ve diğer zorunlu masraflar)
 sıfır gelirle karşılayacak miktarda olmalıdır.
@@ -80,7 +80,7 @@ sıfır gelirle karşılayacak miktarda olmalıdır.
 
 ---
 
-## 4. Bir Acil Durum Fonu Ne Şekilde Oluşturulmalıdır
+## 4. Bir Acil Durum/Güvenlik Fonu Ne Şekilde Oluşturulmalıdır
 - **Aylık Vadesiz Hesap / Kolay Erişilebilir Nakit:**
   Ani ihtiyaç için.
 - **Altın veya Döviz:**
