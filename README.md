@@ -1,4 +1,4 @@
-# Uruz - Thoughts
+# Uruz - Analysis Arcticles
 **This repository,**
 \
 hosts writings prepared collaboratively by myself and other contributors.
