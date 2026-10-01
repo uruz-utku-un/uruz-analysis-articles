@@ -1,4 +1,4 @@
-# # Gider Kalemlerini Tanımlama
+# Gider Kalemlerini Tanımlama
 \
 **Belgenin Ortaya Çıkış Tarihi:**
 2026-09-01
