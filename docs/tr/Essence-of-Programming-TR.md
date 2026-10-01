@@ -34,8 +34,8 @@ bütünleştirmek amaçlanmaktadır.
 
 ## Giriş
 **Bilgisayar programlarının varlık nedeni,** özünde belirli işleri sistematik
-bir şekilde gerçekleştirmektir. Ancak bu işlerin görünen yüzü --örneğin ekran
-parlaklığını değiştirmek veya bir şifre girerek oturum açmak-- yalnızca
+bir şekilde gerçekleştirmektir. Ancak bu işlerin görünen yüzü -örneğin ekran
+parlaklığını değiştirmek veya bir şifre girerek oturum açmak- yalnızca
 kullanıcıya sunulan çıktıdır. Gerçekte programların yaptığı iş, veriyi işlemek
 ve bu veriyi anlamlı bir ürüne dönüştürmektir.
 
