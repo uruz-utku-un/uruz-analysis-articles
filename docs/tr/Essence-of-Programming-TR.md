@@ -16,8 +16,8 @@ Bu belge, orijinal dilinde (yazarın ana dilinde) sunulmuştur.
 
 **Bu çalışma,** bilgisayar programlarının özünü sorgulamakta ve programlamayı
 yalnızca teknik bir faaliyet değil, aynı zamanda düşünsel bir süreç olarak
-ele almaktadır. Programların görünen işlevleri --örneğin ekran parlaklığını
-değiştirmek veya bir şifre girerek oturum açma-- aslında verinin işlenmesi
+ele almaktadır. Programların görünen işlevleri -örneğin ekran parlaklığını
+değiştirmek veya bir şifre girerek oturum açma- aslında verinin işlenmesi
 sonucunda ortaya çıkan yüzeysel yansımalar olarak değerlendirilmiştir.
 
 **Çalışmada veri,** yazılım geliştirme sürecinin temel hammaddesi olarak
