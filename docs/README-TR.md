@@ -38,3 +38,4 @@ erişilebilir şekilde paylaşılabildiği bir alan oluşturmaktır.
 ### Ekonomi
 - [2026-09-11] [Acil Durum/Güvenlik Fonu Nedir ve Neden Çok Önemlidir?](./tr/What-is-Emergency-Fund-and-Why-is-Important-TR.md)
 - [2026-08-27] [Finansal Temel ve Değer Kavramı](./tr/Financial-Fundamentals-and-Concept-of-Value-TR.md)
+  - [2026-09-01] [Gider Kalemleri - Gider İşleme Paneli](./tr/Expense-Items-Expense-Processing-Panel-TR.md) 
