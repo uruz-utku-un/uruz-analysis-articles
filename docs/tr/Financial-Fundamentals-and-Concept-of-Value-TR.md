@@ -4,7 +4,7 @@
 2026-08-27
 \
 **Belge Sürümü:**
-V1.0
+V1.1
 \
 **Belgeyi Oluşturanlar:**
 Uruz - Utku Ün (Kurt)
