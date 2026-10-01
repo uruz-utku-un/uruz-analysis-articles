@@ -7,7 +7,7 @@
 V1.0
 \
 **Belgeyi Oluşturanlar:**
-Uruz: Utku Ün (Kurt)
+<Uruz> Utku Ün (Kurt)
 \
 **Belgeyi Çevirenler:**
 Bu belge, orijinal dilinde (yazarın ana dilinde) sunulmuştur.
